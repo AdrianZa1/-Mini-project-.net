@@ -10,3 +10,15 @@ C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Debug\net8.0\refint\Valid
 C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Debug\net8.0\Validar.correo.pdb
 C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Debug\net8.0\ref\Validar.correo.dll
 C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Debug\net8.0\Validar.correo.sourcelink.json
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\bin\Debug\net8.0\Validar.correo.deps.json
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\bin\Debug\net8.0\Validar.correo.dll
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\bin\Debug\net8.0\Validar.correo.pdb
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\obj\Debug\net8.0\Validar.correo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\obj\Debug\net8.0\Validar.correo.AssemblyInfoInputs.cache
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\obj\Debug\net8.0\Validar.correo.AssemblyInfo.cs
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\obj\Debug\net8.0\Validar.correo.csproj.CoreCompileInputs.cache
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\obj\Debug\net8.0\Validar.correo.sourcelink.json
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\obj\Debug\net8.0\Validar.correo.dll
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\obj\Debug\net8.0\refint\Validar.correo.dll
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\obj\Debug\net8.0\Validar.correo.pdb
+C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\obj\Debug\net8.0\ref\Validar.correo.dll

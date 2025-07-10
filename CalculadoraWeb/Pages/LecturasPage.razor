@@ -43,7 +43,7 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        lecturas = await Http.GetFromJsonAsync<List<LecturaResponseDTO>>("https://api-net-1-uohh.onrender.com/api/lecturas");
+        lecturas = await Http.GetFromJsonAsync<List<LecturaResponseDTO>>("https://api-net-production.up.railway.app/api/lecturas");
     }
 
     public class LecturaResponseDTO

@@ -67,6 +67,8 @@ else
 }
 
 @code {
+    private const string BaseApiUrl = "https://api-net-production.up.railway.app/api";
+
     private List<LecturaResponseDTO>? lecturas;
     private LecturaDTO nuevaLectura = new();
     private bool showForm = false;
@@ -78,7 +80,7 @@ else
 
     private async Task CargarLecturas()
     {
-        lecturas = await Http.GetFromJsonAsync<List<LecturaResponseDTO>>("https://api-net-1-uohh.onrender.com/api/lecturas");
+        lecturas = await Http.GetFromJsonAsync<List<LecturaResponseDTO>>($"{BaseApiUrl}/lecturas");
     }
 
     private void ShowAddForm()
@@ -90,7 +92,7 @@ else
 
     private async Task AgregarLectura()
     {
-        var resp = await Http.PostAsJsonAsync("https://api-net-1-uohh.onrender.com/api/lecturas", nuevaLectura);
+        var resp = await Http.PostAsJsonAsync($"{BaseApiUrl}/lecturas", nuevaLectura);
         if (resp.IsSuccessStatusCode)
         {
             await CargarLecturas();
@@ -100,7 +102,7 @@ else
 
     private async Task EliminarLectura(int id)
     {
-        var resp = await Http.DeleteAsync($"https://api-net-1-uohh.onrender.com/api/lecturas/{id}");
+        var resp = await Http.DeleteAsync($"{BaseApiUrl}/lecturas/{id}");
         if (resp.IsSuccessStatusCode)
         {
             await CargarLecturas();
@@ -121,5 +123,84 @@ else
         public DateTime Fecha { get; set; }
         public decimal Valor { get; set; }
         public int MedidorId { get; set; }
+    }
+
+    // CRUD para Clientes
+    private List<ClienteDTO>? clientes;
+    private ClienteDTO nuevoCliente = new();
+    private bool showClienteForm = false;
+
+    private async Task CargarClientes()
+    {
+        clientes = await Http.GetFromJsonAsync<List<ClienteDTO>>($"{BaseApiUrl}/clientes");
+    }
+    private void ShowAddClienteForm()
+    {
+        nuevoCliente = new ClienteDTO();
+        showClienteForm = true;
+    }
+    private void HideClienteForm() => showClienteForm = false;
+    private async Task AgregarCliente()
+    {
+        var resp = await Http.PostAsJsonAsync($"{BaseApiUrl}/clientes", nuevoCliente);
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarClientes();
+            showClienteForm = false;
+        }
+    }
+    private async Task EliminarCliente(int id)
+    {
+        var resp = await Http.DeleteAsync($"{BaseApiUrl}/clientes/{id}");
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarClientes();
+        }
+    }
+    public class ClienteDTO
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Direccion { get; set; }
+        public string Correo { get; set; }
+    }
+
+    // CRUD para Medidores
+    private List<MedidorDTO>? medidores;
+    private MedidorDTO nuevoMedidor = new();
+    private bool showMedidorForm = false;
+
+    private async Task CargarMedidores()
+    {
+        medidores = await Http.GetFromJsonAsync<List<MedidorDTO>>($"{BaseApiUrl}/medidores");
+    }
+    private void ShowAddMedidorForm()
+    {
+        nuevoMedidor = new MedidorDTO();
+        showMedidorForm = true;
+    }
+    private void HideMedidorForm() => showMedidorForm = false;
+    private async Task AgregarMedidor()
+    {
+        var resp = await Http.PostAsJsonAsync($"{BaseApiUrl}/medidores", nuevoMedidor);
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarMedidores();
+            showMedidorForm = false;
+        }
+    }
+    private async Task EliminarMedidor(int id)
+    {
+        var resp = await Http.DeleteAsync($"{BaseApiUrl}/medidores/{id}");
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarMedidores();
+        }
+    }
+    public class MedidorDTO
+    {
+        public int Id { get; set; }
+        public int Numero { get; set; }
+        public string Tipo { get; set; }
     }
 }

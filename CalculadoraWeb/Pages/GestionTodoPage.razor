@@ -1,5 +1,8 @@
 @page "/gestion-todo"
 @inject HttpClient Http
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components
+@using Microsoft.AspNetCore.Components.Web
 
 <h3>Gestión Completa de Clientes, Medidores y Lecturas</h3>
 
@@ -49,6 +52,10 @@ else
             }
         </tbody>
     </table>
+}
+@if (!string.IsNullOrEmpty(clienteError))
+{
+    <div class="alert alert-danger">@clienteError</div>
 }
 
 <!-- MEDIDORES -->
@@ -102,6 +109,10 @@ else
             }
         </tbody>
     </table>
+}
+@if (!string.IsNullOrEmpty(medidorError))
+{
+    <div class="alert alert-danger">@medidorError</div>
 }
 
 <!-- LECTURAS -->
@@ -157,22 +168,29 @@ else
         </tbody>
     </table>
 }
+@if (!string.IsNullOrEmpty(lecturaError))
+{
+    <div class="alert alert-danger">@lecturaError</div>
+}
 
 @code {
     // CLIENTES
     private List<ClienteDTOView>? clientes;
     private ClienteDTO nuevoCliente = new();
     private bool showFormCliente = false;
+    private string? clienteError;
 
     // MEDIDORES
     private List<MedidorDTOView>? medidores;
     private MedidorDTO nuevoMedidor = new();
     private bool showFormMedidor = false;
+    private string? medidorError;
 
     // LECTURAS
     private List<LecturaResponseDTO>? lecturas;
     private LecturaDTO nuevaLectura = new();
     private bool showFormLectura = false;
+    private string? lecturaError;
 
     protected override async Task OnInitializedAsync()
     {
@@ -184,47 +202,87 @@ else
     // CLIENTES
     private async Task CargarClientes()
     {
-        clientes = await Http.GetFromJsonAsync<List<ClienteDTOView>>("https://api-net-1-uohh.onrender.com/api/clientes");
+        clientes = await Http.GetFromJsonAsync<List<ClienteDTOView>>("https://api-net-production.up.railway.app/api/clientes");
     }
     private void ShowAddCliente() { nuevoCliente = new ClienteDTO(); showFormCliente = true; }
     private void HideFormCliente() => showFormCliente = false;
     private async Task AgregarCliente()
     {
-        var resp = await Http.PostAsJsonAsync("https://api-net-1-uohh.onrender.com/api/clientes", nuevoCliente);
+        clienteError = null;
+        if (string.IsNullOrWhiteSpace(nuevoCliente.Nombre) || string.IsNullOrWhiteSpace(nuevoCliente.Direccion))
+        {
+            clienteError = "Complete todos los campos.";
+            return;
+        }
+        // Capitalizar primer letra si es 'adrian'
+        if (nuevoCliente.Nombre.ToLower() == "adrian")
+            nuevoCliente.Nombre = "Adrian" + nuevoCliente.Nombre.Substring(5);
+        var resp = await Http.PostAsJsonAsync("https://api-net-production.up.railway.app/api/clientes", nuevoCliente);
         if (resp.IsSuccessStatusCode)
         {
             await CargarClientes();
             showFormCliente = false;
         }
+        else
+        {
+            clienteError = "Error al agregar cliente.";
+        }
     }
     private async Task EliminarCliente(int id)
     {
-        var resp = await Http.DeleteAsync($"https://api-net-1-uohh.onrender.com/api/clientes/{id}");
+        clienteError = null;
+        // No permitir eliminar si tiene medidores
+        if (medidores != null && medidores.Any(m => m.ClienteId == id))
+        {
+            clienteError = "No se puede eliminar el cliente porque tiene medidores asociados.";
+            return;
+        }
+        var resp = await Http.DeleteAsync($"https://api-net-production.up.railway.app/api/clientes/{id}");
         if (resp.IsSuccessStatusCode)
         {
             await CargarClientes();
+        }
+        else
+        {
+            clienteError = "Error al eliminar cliente.";
         }
     }
 
     // MEDIDORES
     private async Task CargarMedidores()
     {
-        medidores = await Http.GetFromJsonAsync<List<MedidorDTOView>>("https://api-net-1-uohh.onrender.com/api/medidores");
+        medidores = await Http.GetFromJsonAsync<List<MedidorDTOView>>("https://api-net-production.up.railway.app/api/medidores");
     }
     private void ShowAddMedidor() { nuevoMedidor = new MedidorDTO(); showFormMedidor = true; }
     private void HideFormMedidor() => showFormMedidor = false;
     private async Task AgregarMedidor()
     {
-        var resp = await Http.PostAsJsonAsync("https://api-net-1-uohh.onrender.com/api/medidores", nuevoMedidor);
+        medidorError = null;
+        if (nuevoMedidor.Numero == 0 || string.IsNullOrWhiteSpace(nuevoMedidor.Tipo) || nuevoMedidor.ClienteId == 0)
+        {
+            medidorError = "Complete todos los campos.";
+            return;
+        }
+        // Validar que el cliente exista
+        if (clientes == null || !clientes.Any(c => c.Id == nuevoMedidor.ClienteId))
+        {
+            medidorError = "El cliente no existe.";
+            return;
+        }
+        var resp = await Http.PostAsJsonAsync("https://api-net-production.up.railway.app/api/medidores", nuevoMedidor);
         if (resp.IsSuccessStatusCode)
         {
             await CargarMedidores();
             showFormMedidor = false;
         }
+        else
+        {
+            medidorError = "Error al agregar medidor.";
+        }
     }
     private async Task EliminarMedidor(int id)
     {
-        var resp = await Http.DeleteAsync($"https://api-net-1-uohh.onrender.com/api/medidores/{id}");
+        var resp = await Http.DeleteAsync($"https://api-net-production.up.railway.app/api/medidores/{id}");
         if (resp.IsSuccessStatusCode)
         {
             await CargarMedidores();
@@ -234,22 +292,38 @@ else
     // LECTURAS
     private async Task CargarLecturas()
     {
-        lecturas = await Http.GetFromJsonAsync<List<LecturaResponseDTO>>("https://api-net-1-uohh.onrender.com/api/lecturas");
+        lecturas = await Http.GetFromJsonAsync<List<LecturaResponseDTO>>("https://api-net-production.up.railway.app/api/lecturas");
     }
     private void ShowAddLectura() { nuevaLectura = new LecturaDTO { Fecha = DateTime.Now }; showFormLectura = true; }
     private void HideFormLectura() => showFormLectura = false;
     private async Task AgregarLectura()
     {
-        var resp = await Http.PostAsJsonAsync("https://api-net-1-uohh.onrender.com/api/lecturas", nuevaLectura);
+        lecturaError = null;
+        if (nuevaLectura.Valor == 0 || nuevaLectura.MedidorId == 0)
+        {
+            lecturaError = "Complete todos los campos.";
+            return;
+        }
+        // Validar que el medidor exista
+        if (medidores == null || !medidores.Any(m => m.Id == nuevaLectura.MedidorId))
+        {
+            lecturaError = "El medidor no existe.";
+            return;
+        }
+        var resp = await Http.PostAsJsonAsync("https://api-net-production.up.railway.app/api/lecturas", nuevaLectura);
         if (resp.IsSuccessStatusCode)
         {
             await CargarLecturas();
             showFormLectura = false;
         }
+        else
+        {
+            lecturaError = "Error al agregar lectura.";
+        }
     }
     private async Task EliminarLectura(int id)
     {
-        var resp = await Http.DeleteAsync($"https://api-net-1-uohh.onrender.com/api/lecturas/{id}");
+        var resp = await Http.DeleteAsync($"https://api-net-production.up.railway.app/api/lecturas/{id}");
         if (resp.IsSuccessStatusCode)
         {
             await CargarLecturas();

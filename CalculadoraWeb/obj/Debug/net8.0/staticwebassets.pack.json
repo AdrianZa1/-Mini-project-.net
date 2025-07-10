@@ -1,44 +1,44 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\obj\\Debug\\net8.0\\compressed\\bv5bzxq4eq.gz",
-      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
-    },
-    {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CalculadoraWeb.styles.css",
+      "Id": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CalculadoraWeb.styles.css",
       "PackagePath": "staticwebassets\\CalculadoraWeb.styles.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Calculadora.Logica\\CalculadoraWeb\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CalculadoraWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CalculadoraWeb.Microsoft.AspNetCore.StaticWebAssets.props",
