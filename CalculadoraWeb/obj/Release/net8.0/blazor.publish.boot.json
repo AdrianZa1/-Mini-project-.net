@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CalculadoraWeb",
   "resources": {
-    "hash": "sha256-vdPsKVZXETUcJ7IOi0r0LV+6RE0PRi6MFHSXwjuMMgM=",
+    "hash": "sha256-XQoyGQvQotU6FL8asmayHLrYYS0tArD37f5NE1+kgEY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -18,8 +18,8 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Calculadora.Logica.wasm": "sha256-ROvTzTT8bansSgQcU8L9+zSEVY9clZfhSC6UbwirApM=",
-      "CalculadoraWeb.wasm": "sha256-XbA4aJwLiNlI4RKa3w9zjvYbqOmFKE6JyQDN1mQ9E4I=",
+      "Calculadora.Logica.wasm": "sha256-CCwWNowFsDxf/H6XvX3svJq0C2dBc3sU9lX9aYba82I=",
+      "CalculadoraWeb.wasm": "sha256-zCxAvyrbjvZhjRJyDcmE5xtLQKPtZXwe6BWYhhVie0s=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-mDPzvsfK/Eo+s1DAXD6UyYk75JXD0jFjByaAp7sUJJ8=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-C8l8X2M5NCxmLjNswSCltYlstIWbMIYXh5C4FyRtyDM=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-aQKTlc0C21CZTXNvOhQt0McIuxpe/wgfG0Z8GBIUUco=",
@@ -61,8 +61,8 @@
       "System.Text.Json.wasm": "sha256-zDmRt0LcztF1mdsIR5AimexdLBO/iZuA1eULnyrqMSk=",
       "System.Text.RegularExpressions.wasm": "sha256-nVUUELfQpDbvXJuDsALLjXoiPufnssYHW233wu4NF9w=",
       "System.wasm": "sha256-rJDiJLn9vFaPuc+koNsD2sHOPKsWg6PhywVlVUHLN/A=",
-      "Validar.correo.wasm": "sha256-e18REQQbH84j5Dy23IX38YwZ5ii0E/RLd2ZPNXZBjSg=",
-      "Validar.Logica.wasm": "sha256-mQRrlzeV7umPvyfxqQobcPxBeb1jq1Lx3zcZKwcROAk="
+      "Validar.correo.wasm": "sha256-OaMpRQyqWWKhRzZRRCixGdNkViMmfKdb78mu+IuHL2w=",
+      "Validar.Logica.wasm": "sha256-/ZeOiQOf+u89B7kH/+0zu4DSHbxhb4UKmlYw0ACHLAU="
     }
   },
   "cacheBootResources": true,
