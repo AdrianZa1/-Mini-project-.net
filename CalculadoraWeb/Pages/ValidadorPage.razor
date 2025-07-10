@@ -1,0 +1,29 @@
+@page "/validador"
+@using Validar.Logica
+
+<h3>Validador de Cédula</h3>
+
+<input @bind="cedula" placeholder="Ingrese la cédula" class="form-control" />
+<button class="btn btn-primary mt-2" @onclick="ValidarCedula">Validar</button>
+
+@if (mensaje != null)
+{
+    <p class="mt-2">@mensaje</p>
+}
+
+@code {
+    private string cedula;
+    private string mensaje;
+
+    private void ValidarCedula()
+    {
+        if (Class1.Escedulavalida(cedula))
+        {
+            mensaje = "✅ Cédula válida.";
+        }
+        else
+        {
+            mensaje = "❌ Cédula inválida.";
+        }
+    }
+}

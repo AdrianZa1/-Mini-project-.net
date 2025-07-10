@@ -1,0 +1,100 @@
+@page "/generar-correo"
+@using ValidadorCorreo.Logica.Generadores
+
+<h3>Generador de Correos Inteligente</h3>
+
+<div class="form-group">
+    <input @bind="nombre" @oninput="OnInputChanged" class="form-control" placeholder="Nombre" />
+</div>
+<div class="form-group mt-2">
+    <input @bind="apellido" @oninput="OnInputChanged" class="form-control" placeholder="Apellido" />
+</div>
+<div class="form-group mt-2">
+    <input @bind="palabraClave" @oninput="OnInputChanged" class="form-control" placeholder="Palabra personalizada (opcional)" />
+</div>
+<button class="btn btn-success mt-3" @onclick="GenerarCorreos">@botonTexto</button>
+
+@if (soloLetras.Count > 0 || conNumeros.Count > 0)
+{
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <h5>Sólo letras</h5>
+            <ul>
+                @foreach (var correo in soloLetras.Take(5))
+                {
+                    <li>@correo</li>
+                }
+            </ul>
+        </div>
+        <div class="col-md-6">
+            <h5>Con números</h5>
+            <ul>
+                @foreach (var correo in conNumeros.Take(5))
+                {
+                    <li>@correo</li>
+                }
+            </ul>
+        </div>
+    </div>
+}
+
+@code {
+    private string nombre;
+    private string apellido;
+    private string palabraClave;
+    private List<string> soloLetras = new();
+    private List<string> conNumeros = new();
+    private string botonTexto = "Generar Correos";
+    private bool yaGenerado = false;
+
+    private void GenerarCorreos()
+    {
+        var clave = string.IsNullOrWhiteSpace(palabraClave) ? "" : palabraClave;
+        var sugerencias = GeneradorCorreo.GenerarCorreos(nombre, apellido, clave);
+        soloLetras = sugerencias.Where(c => !c.Any(char.IsDigit)).Take(5).ToList();
+        conNumeros = sugerencias.Where(c => c.Any(char.IsDigit)).Take(5).ToList();
+        if (!yaGenerado)
+        {
+            botonTexto = "Volver a generar";
+            yaGenerado = true;
+        }
+    }
+
+    private void OnInputChanged(ChangeEventArgs e)
+    {
+        if (yaGenerado)
+        {
+            botonTexto = "Generar Correos";
+            yaGenerado = false;
+            soloLetras.Clear();
+            conNumeros.Clear();
+        }
+    }
+}
+
+<style>
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+.col-md-6 {
+    flex: 1 1 0;
+    background: #f8fafc;
+    border-radius: 10px;
+    padding: 18px 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    min-width: 220px;
+}
+.col-md-6 h5 {
+    color: #1976d2;
+    margin-bottom: 1em;
+}
+ul {
+    padding-left: 1.2em;
+}
+li {
+    font-size: 1.08rem;
+    margin-bottom: 0.5em;
+}
+</style>

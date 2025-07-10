@@ -1,0 +1,125 @@
+@page "/lecturas-crud"
+@inject HttpClient Http
+
+<h3>Gestión de Lecturas</h3>
+
+<button class="btn btn-primary mb-3" @onclick="ShowAddForm">➕ Nueva Lectura</button>
+
+@if (showForm)
+{
+    <EditForm Model="nuevaLectura" OnValidSubmit="AgregarLectura">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <div class="mb-2">
+            <label>Fecha:</label>
+            <InputDate @bind-Value="nuevaLectura.Fecha" class="form-control" />
+        </div>
+        <div class="mb-2">
+            <label>Valor:</label>
+            <InputNumber @bind-Value="nuevaLectura.Valor" class="form-control" />
+        </div>
+        <div class="mb-2">
+            <label>MedidorId:</label>
+            <InputNumber @bind-Value="nuevaLectura.MedidorId" class="form-control" />
+        </div>
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary ms-2" type="button" @onclick="HideForm">Cancelar</button>
+    </EditForm>
+}
+
+@if (lecturas == null)
+{
+    <p><em>Cargando...</em></p>
+}
+else if (!lecturas.Any())
+{
+    <p>No hay lecturas registradas.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Fecha</th>
+                <th>Valor</th>
+                <th>Medidor</th>
+                <th>Tipo</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var l in lecturas)
+            {
+                <tr>
+                    <td>@l.Id</td>
+                    <td>@l.Fecha.ToString("yyyy-MM-dd")</td>
+                    <td>@l.Valor</td>
+                    <td>@l.NumeroMedidor</td>
+                    <td>@l.TipoMedidor</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm" @onclick="() => EliminarLectura(l.Id)">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<LecturaResponseDTO>? lecturas;
+    private LecturaDTO nuevaLectura = new();
+    private bool showForm = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarLecturas();
+    }
+
+    private async Task CargarLecturas()
+    {
+        lecturas = await Http.GetFromJsonAsync<List<LecturaResponseDTO>>("https://api-net-1-uohh.onrender.com/api/lecturas");
+    }
+
+    private void ShowAddForm()
+    {
+        nuevaLectura = new LecturaDTO { Fecha = DateTime.Now };
+        showForm = true;
+    }
+    private void HideForm() => showForm = false;
+
+    private async Task AgregarLectura()
+    {
+        var resp = await Http.PostAsJsonAsync("https://api-net-1-uohh.onrender.com/api/lecturas", nuevaLectura);
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarLecturas();
+            showForm = false;
+        }
+    }
+
+    private async Task EliminarLectura(int id)
+    {
+        var resp = await Http.DeleteAsync($"https://api-net-1-uohh.onrender.com/api/lecturas/{id}");
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarLecturas();
+        }
+    }
+
+    public class LecturaResponseDTO
+    {
+        public int Id { get; set; }
+        public DateTime Fecha { get; set; }
+        public decimal Valor { get; set; }
+        public int MedidorId { get; set; }
+        public int NumeroMedidor { get; set; }
+        public string TipoMedidor { get; set; }
+    }
+    public class LecturaDTO
+    {
+        public DateTime Fecha { get; set; }
+        public decimal Valor { get; set; }
+        public int MedidorId { get; set; }
+    }
+}

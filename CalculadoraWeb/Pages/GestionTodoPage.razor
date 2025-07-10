@@ -1,0 +1,299 @@
+@page "/gestion-todo"
+@inject HttpClient Http
+
+<h3>Gestión Completa de Clientes, Medidores y Lecturas</h3>
+
+<!-- CLIENTES -->
+<h4>Clientes</h4>
+<button class="btn btn-primary mb-2" @onclick="ShowAddCliente">➕ Nuevo Cliente</button>
+@if (showFormCliente)
+{
+    <EditForm Model="nuevoCliente" OnValidSubmit="AgregarCliente">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <div class="mb-2">
+            <label>Nombre:</label>
+            <InputText @bind-Value="nuevoCliente.Nombre" class="form-control" />
+        </div>
+        <div class="mb-2">
+            <label>Dirección:</label>
+            <InputText @bind-Value="nuevoCliente.Direccion" class="form-control" />
+        </div>
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary ms-2" type="button" @onclick="HideFormCliente">Cancelar</button>
+    </EditForm>
+}
+@if (clientes == null)
+{
+    <p><em>Cargando clientes...</em></p>
+}
+else if (!clientes.Any())
+{
+    <p>No hay clientes registrados.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead><tr><th>Id</th><th>Nombre</th><th>Dirección</th><th>Acciones</th></tr></thead>
+        <tbody>
+            @foreach (var c in clientes)
+            {
+                <tr>
+                    <td>@c.Id</td>
+                    <td>@c.Nombre</td>
+                    <td>@c.Direccion</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm" @onclick="() => EliminarCliente(c.Id)">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<!-- MEDIDORES -->
+<h4 class="mt-4">Medidores</h4>
+<button class="btn btn-primary mb-2" @onclick="ShowAddMedidor">➕ Nuevo Medidor</button>
+@if (showFormMedidor)
+{
+    <EditForm Model="nuevoMedidor" OnValidSubmit="AgregarMedidor">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <div class="mb-2">
+            <label>Número:</label>
+            <InputNumber @bind-Value="nuevoMedidor.Numero" class="form-control" />
+        </div>
+        <div class="mb-2">
+            <label>Tipo:</label>
+            <InputText @bind-Value="nuevoMedidor.Tipo" class="form-control" />
+        </div>
+        <div class="mb-2">
+            <label>ClienteId:</label>
+            <InputNumber @bind-Value="nuevoMedidor.ClienteId" class="form-control" />
+        </div>
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary ms-2" type="button" @onclick="HideFormMedidor">Cancelar</button>
+    </EditForm>
+}
+@if (medidores == null)
+{
+    <p><em>Cargando medidores...</em></p>
+}
+else if (!medidores.Any())
+{
+    <p>No hay medidores registrados.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead><tr><th>Id</th><th>Número</th><th>Tipo</th><th>ClienteId</th><th>Acciones</th></tr></thead>
+        <tbody>
+            @foreach (var m in medidores)
+            {
+                <tr>
+                    <td>@m.Id</td>
+                    <td>@m.Numero</td>
+                    <td>@m.Tipo</td>
+                    <td>@m.ClienteId</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm" @onclick="() => EliminarMedidor(m.Id)">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<!-- LECTURAS -->
+<h4 class="mt-4">Lecturas</h4>
+<button class="btn btn-primary mb-2" @onclick="ShowAddLectura">➕ Nueva Lectura</button>
+@if (showFormLectura)
+{
+    <EditForm Model="nuevaLectura" OnValidSubmit="AgregarLectura">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <div class="mb-2">
+            <label>Fecha:</label>
+            <InputDate @bind-Value="nuevaLectura.Fecha" class="form-control" />
+        </div>
+        <div class="mb-2">
+            <label>Valor:</label>
+            <InputNumber @bind-Value="nuevaLectura.Valor" class="form-control" />
+        </div>
+        <div class="mb-2">
+            <label>MedidorId:</label>
+            <InputNumber @bind-Value="nuevaLectura.MedidorId" class="form-control" />
+        </div>
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary ms-2" type="button" @onclick="HideFormLectura">Cancelar</button>
+    </EditForm>
+}
+@if (lecturas == null)
+{
+    <p><em>Cargando lecturas...</em></p>
+}
+else if (!lecturas.Any())
+{
+    <p>No hay lecturas registradas.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead><tr><th>Id</th><th>Fecha</th><th>Valor</th><th>Medidor</th><th>Tipo</th><th>Acciones</th></tr></thead>
+        <tbody>
+            @foreach (var l in lecturas)
+            {
+                <tr>
+                    <td>@l.Id</td>
+                    <td>@l.Fecha.ToString("yyyy-MM-dd")</td>
+                    <td>@l.Valor</td>
+                    <td>@l.NumeroMedidor</td>
+                    <td>@l.TipoMedidor</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm" @onclick="() => EliminarLectura(l.Id)">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    // CLIENTES
+    private List<ClienteDTOView>? clientes;
+    private ClienteDTO nuevoCliente = new();
+    private bool showFormCliente = false;
+
+    // MEDIDORES
+    private List<MedidorDTOView>? medidores;
+    private MedidorDTO nuevoMedidor = new();
+    private bool showFormMedidor = false;
+
+    // LECTURAS
+    private List<LecturaResponseDTO>? lecturas;
+    private LecturaDTO nuevaLectura = new();
+    private bool showFormLectura = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarClientes();
+        await CargarMedidores();
+        await CargarLecturas();
+    }
+
+    // CLIENTES
+    private async Task CargarClientes()
+    {
+        clientes = await Http.GetFromJsonAsync<List<ClienteDTOView>>("https://api-net-1-uohh.onrender.com/api/clientes");
+    }
+    private void ShowAddCliente() { nuevoCliente = new ClienteDTO(); showFormCliente = true; }
+    private void HideFormCliente() => showFormCliente = false;
+    private async Task AgregarCliente()
+    {
+        var resp = await Http.PostAsJsonAsync("https://api-net-1-uohh.onrender.com/api/clientes", nuevoCliente);
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarClientes();
+            showFormCliente = false;
+        }
+    }
+    private async Task EliminarCliente(int id)
+    {
+        var resp = await Http.DeleteAsync($"https://api-net-1-uohh.onrender.com/api/clientes/{id}");
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarClientes();
+        }
+    }
+
+    // MEDIDORES
+    private async Task CargarMedidores()
+    {
+        medidores = await Http.GetFromJsonAsync<List<MedidorDTOView>>("https://api-net-1-uohh.onrender.com/api/medidores");
+    }
+    private void ShowAddMedidor() { nuevoMedidor = new MedidorDTO(); showFormMedidor = true; }
+    private void HideFormMedidor() => showFormMedidor = false;
+    private async Task AgregarMedidor()
+    {
+        var resp = await Http.PostAsJsonAsync("https://api-net-1-uohh.onrender.com/api/medidores", nuevoMedidor);
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarMedidores();
+            showFormMedidor = false;
+        }
+    }
+    private async Task EliminarMedidor(int id)
+    {
+        var resp = await Http.DeleteAsync($"https://api-net-1-uohh.onrender.com/api/medidores/{id}");
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarMedidores();
+        }
+    }
+
+    // LECTURAS
+    private async Task CargarLecturas()
+    {
+        lecturas = await Http.GetFromJsonAsync<List<LecturaResponseDTO>>("https://api-net-1-uohh.onrender.com/api/lecturas");
+    }
+    private void ShowAddLectura() { nuevaLectura = new LecturaDTO { Fecha = DateTime.Now }; showFormLectura = true; }
+    private void HideFormLectura() => showFormLectura = false;
+    private async Task AgregarLectura()
+    {
+        var resp = await Http.PostAsJsonAsync("https://api-net-1-uohh.onrender.com/api/lecturas", nuevaLectura);
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarLecturas();
+            showFormLectura = false;
+        }
+    }
+    private async Task EliminarLectura(int id)
+    {
+        var resp = await Http.DeleteAsync($"https://api-net-1-uohh.onrender.com/api/lecturas/{id}");
+        if (resp.IsSuccessStatusCode)
+        {
+            await CargarLecturas();
+        }
+    }
+
+    // DTOs locales para vista
+    public class ClienteDTO
+    {
+        public string Nombre { get; set; }
+        public string Direccion { get; set; }
+    }
+    public class ClienteDTOView
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Direccion { get; set; }
+    }
+    public class MedidorDTO
+    {
+        public int Numero { get; set; }
+        public string Tipo { get; set; }
+        public int ClienteId { get; set; }
+    }
+    public class MedidorDTOView
+    {
+        public int Id { get; set; }
+        public int Numero { get; set; }
+        public string Tipo { get; set; }
+        public int ClienteId { get; set; }
+    }
+    public class LecturaResponseDTO
+    {
+        public int Id { get; set; }
+        public DateTime Fecha { get; set; }
+        public decimal Valor { get; set; }
+        public int MedidorId { get; set; }
+        public int NumeroMedidor { get; set; }
+        public string TipoMedidor { get; set; }
+    }
+    public class LecturaDTO
+    {
+        public DateTime Fecha { get; set; }
+        public decimal Valor { get; set; }
+        public int MedidorId { get; set; }
+    }
+}

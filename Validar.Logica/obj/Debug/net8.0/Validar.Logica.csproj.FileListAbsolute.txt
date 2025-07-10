@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\bin\Debug\net8.0\Validar.Logica.deps.json
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\bin\Debug\net8.0\Validar.Logica.dll
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\bin\Debug\net8.0\Validar.Logica.pdb
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Debug\net8.0\Validar.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Debug\net8.0\Validar.Logica.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Debug\net8.0\Validar.Logica.AssemblyInfo.cs
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Debug\net8.0\Validar.Logica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Debug\net8.0\Validar.Logica.dll
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Debug\net8.0\refint\Validar.Logica.dll
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Debug\net8.0\Validar.Logica.pdb
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Debug\net8.0\ref\Validar.Logica.dll

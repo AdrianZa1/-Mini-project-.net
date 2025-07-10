@@ -1,0 +1,58 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">Mini Proyectos
+        </a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="calculadora">
+                <span class="bi bi-calculator-nav-menu" aria-hidden="true"></span> Calculadora
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="validador">
+                <span class="bi bi-check-square-fill-nav-menu" aria-hidden="true"></span> Validador de Cédula
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="generar-correo">
+                <span class="bi bi-envelope-check-fill-nav-menu" aria-hidden="true"></span> Validador de Correo
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="lecturas">
+                <span class="bi bi-table-nav-menu" aria-hidden="true"></span> Consumo de api 
+            </NavLink>
+        </div>
+        
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="gestion-todo">
+                <span class="bi bi-folder2-open-nav-menu" aria-hidden="true"></span> Gestión Completa (Api)
+            </NavLink>
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

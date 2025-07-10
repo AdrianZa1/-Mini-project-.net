@@ -1,0 +1,59 @@
+@page "/lecturas"
+@inject HttpClient Http
+
+<h3>Lecturas Registradas</h3>
+
+@if (lecturas == null)
+{
+    <p><em>Cargando...</em></p>
+}
+else if (!lecturas.Any())
+{
+    <p>No hay lecturas registradas.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Fecha</th>
+                <th>Valor</th>
+                <th>Medidor</th>
+                <th>Tipo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var l in lecturas)
+            {
+                <tr>
+                    <td>@l.Id</td>
+                    <td>@l.Fecha.ToString("yyyy-MM-dd")</td>
+                    <td>@l.Valor</td>
+                    <td>@l.NumeroMedidor</td>
+                    <td>@l.TipoMedidor</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<LecturaResponseDTO>? lecturas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        lecturas = await Http.GetFromJsonAsync<List<LecturaResponseDTO>>("https://api-net-1-uohh.onrender.com/api/lecturas");
+    }
+
+    public class LecturaResponseDTO
+    {
+        public int Id { get; set; }
+        public DateTime Fecha { get; set; }
+        public decimal Valor { get; set; }
+        public int MedidorId { get; set; }
+        public int NumeroMedidor { get; set; }
+        public string TipoMedidor { get; set; }
+        // Eliminado ClienteNombre
+    }
+}

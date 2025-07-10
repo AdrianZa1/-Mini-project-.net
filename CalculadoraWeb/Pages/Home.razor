@@ -1,0 +1,66 @@
+﻿@page "/"
+
+<PageTitle>Bienvenido</PageTitle>
+
+<div class="welcome-container">
+    <h1>👋 ¡Bienvenido a Mini Proyectos en .NET!</h1>
+    <p class="subtitle">Desarrollado por <b>Anthony Adrian Zamora Villarruel</b></p>
+    <div class="projects-list">
+        <h3>Explora los mini proyectos disponibles:</h3>
+        <ul>
+            <li><a href="/calculadora">🧮 Calculadora Web</a></li>
+            <li><a href="/validador">🆔 Validador de Cédula</a></li>
+            <li><a href="/generar-correo">📧 Generar Correo Electrónico</a></li>
+            <li><a href="/lecturas">📊 Lecturas Registradas (API)</a></li>
+            <li><a href="/gestion-todo">🗂️ Gestión Completa (Clientes, Medidores, Lecturas)</a></li>
+        </ul>
+    </div>
+    <div class="welcome-footer">
+        <p>¡Gracias por visitar! Disfruta explorando y aprendiendo con .NET.</p>
+    </div>
+</div>
+
+<style>
+.welcome-container {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 32px 24px;
+    background: #f8fafc;
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    text-align: center;
+}
+.welcome-container h1 {
+    font-size: 2.2rem;
+    margin-bottom: 0.5em;
+    color: #1976d2;
+}
+.subtitle {
+    color: #333;
+    margin-bottom: 1.5em;
+}
+.projects-list ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1.5em 0;
+}
+.projects-list li {
+    margin: 0.7em 0;
+    font-size: 1.15rem;
+}
+.projects-list a {
+    color: #1976d2;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+.projects-list a:hover {
+    color: #0d47a1;
+    text-decoration: underline;
+}
+.welcome-footer {
+    color: #666;
+    font-size: 1rem;
+    margin-top: 2em;
+}
+</style>

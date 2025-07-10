@@ -1,0 +1,3 @@
+C:\Users\USUARIO\Calculadora.Logica\out\Validar.correo.dll
+C:\Users\USUARIO\Calculadora.Logica\out\Validar.correo.deps.json
+C:\Users\USUARIO\Calculadora.Logica\out\Validar.correo.pdb
