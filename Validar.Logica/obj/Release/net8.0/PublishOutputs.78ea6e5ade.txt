@@ -1,3 +1,0 @@
-C:\Users\USUARIO\Calculadora.Logica\out\Validar.Logica.dll
-C:\Users\USUARIO\Calculadora.Logica\out\Validar.Logica.deps.json
-C:\Users\USUARIO\Calculadora.Logica\out\Validar.Logica.pdb

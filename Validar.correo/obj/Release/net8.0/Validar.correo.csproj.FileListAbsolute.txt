@@ -1,15 +1,3 @@
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\bin\Release\net8.0\Validar.correo.deps.json
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\bin\Release\net8.0\Validar.correo.dll
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\bin\Release\net8.0\Validar.correo.pdb
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Release\net8.0\Validar.correo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Release\net8.0\Validar.correo.AssemblyInfoInputs.cache
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Release\net8.0\Validar.correo.AssemblyInfo.cs
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Release\net8.0\Validar.correo.csproj.CoreCompileInputs.cache
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Release\net8.0\Validar.correo.dll
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Release\net8.0\refint\Validar.correo.dll
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Release\net8.0\Validar.correo.pdb
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Release\net8.0\ref\Validar.correo.dll
-C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Release\net8.0\Validar.correo.sourcelink.json
 C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\bin\Release\net8.0\Validar.correo.deps.json
 C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\bin\Release\net8.0\Validar.correo.dll
 C:\Users\Adrii\Desktop\-Mini-project-.net\Validar.correo\bin\Release\net8.0\Validar.correo.pdb

@@ -214,7 +214,6 @@ else
             clienteError = "Complete todos los campos.";
             return;
         }
-        // Capitalizar primer letra si es 'adrian'
         if (nuevoCliente.Nombre.ToLower() == "adrian")
             nuevoCliente.Nombre = "Adrian" + nuevoCliente.Nombre.Substring(5);
         var resp = await Http.PostAsJsonAsync("https://api-net-production.up.railway.app/api/clientes", nuevoCliente);
@@ -231,7 +230,6 @@ else
     private async Task EliminarCliente(int id)
     {
         clienteError = null;
-        // No permitir eliminar si tiene medidores
         if (medidores != null && medidores.Any(m => m.ClienteId == id))
         {
             clienteError = "No se puede eliminar el cliente porque tiene medidores asociados.";
@@ -263,7 +261,6 @@ else
             medidorError = "Complete todos los campos.";
             return;
         }
-        // Validar que el cliente exista
         if (clientes == null || !clientes.Any(c => c.Id == nuevoMedidor.ClienteId))
         {
             medidorError = "El cliente no existe.";
@@ -304,7 +301,6 @@ else
             lecturaError = "Complete todos los campos.";
             return;
         }
-        // Validar que el medidor exista
         if (medidores == null || !medidores.Any(m => m.Id == nuevaLectura.MedidorId))
         {
             lecturaError = "El medidor no existe.";
