@@ -9,3 +9,4 @@ C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Release\net8.0\Validar.Lo
 C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Release\net8.0\refint\Validar.Logica.dll
 C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Release\net8.0\Validar.Logica.pdb
 C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Release\net8.0\ref\Validar.Logica.dll
+C:\Users\USUARIO\Calculadora.Logica\Validar.Logica\obj\Release\net8.0\Validar.Logica.sourcelink.json

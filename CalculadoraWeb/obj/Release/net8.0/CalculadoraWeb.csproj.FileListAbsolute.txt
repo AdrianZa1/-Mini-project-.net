@@ -1056,3 +1056,4 @@ C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\obj\Release\net8.0\Calculador
 C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\obj\Release\net8.0\refint\CalculadoraWeb.dll
 C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\obj\Release\net8.0\CalculadoraWeb.pdb
 C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\obj\Release\net8.0\ref\CalculadoraWeb.dll
+C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\obj\Release\net8.0\CalculadoraWeb.sourcelink.json
