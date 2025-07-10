@@ -1,0 +1,3 @@
+C:\Users\Adrii\Desktop\-Mini-project-.net\out\Validar.Logica.dll
+C:\Users\Adrii\Desktop\-Mini-project-.net\out\Validar.Logica.deps.json
+C:\Users\Adrii\Desktop\-Mini-project-.net\out\Validar.Logica.pdb
