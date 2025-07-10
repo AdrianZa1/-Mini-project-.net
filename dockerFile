@@ -28,4 +28,4 @@ ENV ASPNETCORE_URLS=http://+:80
 EXPOSE 80
 
 # Ejecutar el proyecto web
-ENTRYPOINT ["dotnet", "CalculadoraWeb.dll"]
+ENTRYPOINT ["dotnet", "CalculadoraWe.dll"]
