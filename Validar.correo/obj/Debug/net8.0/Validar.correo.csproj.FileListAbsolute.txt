@@ -9,3 +9,4 @@ C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Debug\net8.0\Validar.corr
 C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Debug\net8.0\refint\Validar.correo.dll
 C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Debug\net8.0\Validar.correo.pdb
 C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Debug\net8.0\ref\Validar.correo.dll
+C:\Users\USUARIO\Calculadora.Logica\Validar.correo\obj\Debug\net8.0\Validar.correo.sourcelink.json

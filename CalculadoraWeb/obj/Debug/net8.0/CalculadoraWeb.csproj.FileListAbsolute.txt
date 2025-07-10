@@ -1062,3 +1062,4 @@ C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\bin\Debug\net8.0\Validar.corr
 C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\obj\Debug\net8.0\webcil\Validar.correo.wasm
 C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\obj\Debug\net8.0\compressed\h4rg3lp52d.gz
 C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\obj\Debug\net8.0\compressed\z5yafjnbvz.gz
+C:\Users\USUARIO\Calculadora.Logica\CalculadoraWeb\obj\Debug\net8.0\CalculadoraWeb.sourcelink.json
