@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora.Logica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83920339df3753d8bba4186a41eaad36f7a1de3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4227512cb6d4ff6a39faeadfebda13b9613837c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadora.Logica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadora.Logica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

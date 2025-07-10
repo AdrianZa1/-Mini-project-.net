@@ -14,15 +14,3 @@ C:\Users\USUARIO\Calculadora.Logica\calculadora.logica\obj\Debug\net8.0\refint\C
 C:\Users\USUARIO\Calculadora.Logica\calculadora.logica\obj\Debug\net8.0\Calculadora.Logica.pdb
 C:\Users\USUARIO\Calculadora.Logica\calculadora.logica\obj\Debug\net8.0\ref\Calculadora.Logica.dll
 C:\Users\USUARIO\Calculadora.Logica\calculadora.logica\obj\Debug\net8.0\Calculadora.Logica.sourcelink.json
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\bin\Debug\net8.0\Calculadora.Logica.deps.json
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\bin\Debug\net8.0\Calculadora.Logica.dll
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\bin\Debug\net8.0\Calculadora.Logica.pdb
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\obj\Debug\net8.0\Calculadora.Logica.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\obj\Debug\net8.0\Calculadora.Logica.AssemblyInfoInputs.cache
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\obj\Debug\net8.0\Calculadora.Logica.AssemblyInfo.cs
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\obj\Debug\net8.0\Calculadora.Logica.csproj.CoreCompileInputs.cache
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\obj\Debug\net8.0\Calculadora.Logica.sourcelink.json
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\obj\Debug\net8.0\Calculadora.Logica.dll
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\obj\Debug\net8.0\refint\Calculadora.Logica.dll
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\obj\Debug\net8.0\Calculadora.Logica.pdb
-C:\Users\Adrii\Desktop\-Mini-project-.net\calculadora.logica\obj\Debug\net8.0\ref\Calculadora.Logica.dll

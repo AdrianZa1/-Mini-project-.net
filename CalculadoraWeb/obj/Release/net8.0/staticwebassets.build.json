@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YPltEc7V8drYSfjVTdqcFBgXwkEiBhvuMqphUa//6eU=",
+  "Hash": "1hWatSHBAzARSxAliWWpz6rkECuKY95O57XFvwP8qr8=",
   "Source": "CalculadoraWeb",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "jutyfpb86e",
-      "Integrity": "m+6IJr0cHSRw1GemvokgfPsy4hOZ5FxuIydXzhUFke4=",
+      "Fingerprint": "6hhxxt1vno",
+      "Integrity": "RgSmh1S5AkWxBZa/9S57l+1W0Xuyjp+I75JAxPk2Nps=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "yfqdoo0wm1",
-      "Integrity": "Hj/SWgn683Y1Gy1IDxKmEaJ6wX5DbyqluX4kFR9Kc8A=",
+      "Fingerprint": "xemshffyof",
+      "Integrity": "eR2iE8vgKPxU89+6wnAcWcxybMF/9vEXcXz1n6gdIuI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\calculadora.logica\\bin\\Release\\net8.0\\Calculadora.Logica.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "dk9a5x7ofr",
-      "Integrity": "E/ju1dwEC367GajZuzbaSui9WArV0snOeqHAdIeAevs=",
+      "Fingerprint": "cs428amnwk",
+      "Integrity": "ROvTzTT8bansSgQcU8L9+zSEVY9clZfhSC6UbwirApM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\Calculadora.Logica.wasm"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "s0rvaeuy9x",
-      "Integrity": "dMP+1zoFMyzcnpyhSuTZkcVENKDi6OsncvUV5dOmKwk=",
+      "Fingerprint": "1603owvgda",
+      "Integrity": "Z1QGLt74a0vn4TGXQxVtDXXAvoPD/EkRQ/xgJbNVatc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net8.0\\CalculadoraWeb.pdb"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "c11ijnrpxh",
-      "Integrity": "wHRYOV03n6VBAC5vWINnhb4zuGDm8dumcMqehSwiO8s=",
+      "Fingerprint": "1vwo4wzvba",
+      "Integrity": "XbA4aJwLiNlI4RKa3w9zjvYbqOmFKE6JyQDN1mQ9E4I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\CalculadoraWeb.wasm"
@@ -4357,8 +4357,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "589q6xw1kd",
-      "Integrity": "yyTsgmuRaGKSEwjTS6YxEkeQR02NGpVoXjuqUInmOJw=",
+      "Fingerprint": "wubov5um2b",
+      "Integrity": "+JrTRwggWTG7uhkzZpB09V3p3ov325auzFZEysr5qn4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\Validar.correo\\bin\\Release\\net8.0\\Validar.correo.pdb"
@@ -4378,8 +4378,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "oczhwi3cp7",
-      "Integrity": "OKX98zvk8Y4p8ZfWZvKSFo20RloY+JxO77eWZwoydBA=",
+      "Fingerprint": "rogolw4cuz",
+      "Integrity": "e18REQQbH84j5Dy23IX38YwZ5ii0E/RLd2ZPNXZBjSg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\Validar.correo.wasm"
@@ -4399,8 +4399,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "c47lym7kyb",
-      "Integrity": "tP56nBWMqAWkK3EzukPiBdxe4ZuFCopWG30zHoPldFg=",
+      "Fingerprint": "1kkk6lj247",
+      "Integrity": "EY/Ch/4q9eob5TTFMbNExjhkyot3+xxx6v7Z2SrDr1A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\Validar.Logica\\bin\\Release\\net8.0\\Validar.Logica.pdb"
@@ -4420,8 +4420,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "tslqk5t2zj",
-      "Integrity": "3QipyxB1xMUPPKQduqh3U9GdzwuCC0TkCle+1jGHRsw=",
+      "Fingerprint": "7o8qplycnk",
+      "Integrity": "mQRrlzeV7umPvyfxqQobcPxBeb1jq1Lx3zcZKwcROAk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\Validar.Logica.wasm"
@@ -5183,7 +5183,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Configuration.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\4aoqqfgyn4-oczhwi3cp7.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\4aoqqfgyn4-rogolw4cuz.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -5197,8 +5197,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Validar.correo.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5683x7eh7q",
-      "Integrity": "41YhEWADnqaqF6mLQE7rALvw8NqHJNZMkX5YasMIpB8=",
+      "Fingerprint": "kfesl82m96",
+      "Integrity": "8NJTHgeekjSWozPEhe6JEZeDA0aHcUWtbky4aJhO9Qw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Validar.correo.wasm"
@@ -5288,7 +5288,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Windows.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\5d5kty41bp-yfqdoo0wm1.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\5d5kty41bp-xemshffyof.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -5302,8 +5302,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Calculadora.Logica.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hzuhwuo4kc",
-      "Integrity": "HY82+sy4mhtq9q/Sgrajy4zID5qQT/cdRw3QqZlDTeo=",
+      "Fingerprint": "md3uueat7i",
+      "Integrity": "Zt2xuK0kQIWnPV2kJEgl2NL5fNOCbDY0GB90wvBJ9IY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Calculadora.Logica.pdb"
@@ -5561,7 +5561,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Net.Ping.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\800saw0ow4-dk9a5x7ofr.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\800saw0ow4-cs428amnwk.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -5575,8 +5575,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Calculadora.Logica.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lxvp4oomox",
-      "Integrity": "F644lVxGF5e+MS5RwLYILnYStw+wlJSj8tbsMYwnSqM=",
+      "Fingerprint": "svsvjrqvma",
+      "Integrity": "+EKck63G/bw/BofoaJUtMPWVpyzhhsY2KTML2PdiFNU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Calculadora.Logica.wasm"
@@ -6674,7 +6674,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\i1ldbvu2h5-589q6xw1kd.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\i1ldbvu2h5-wubov5um2b.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -6688,8 +6688,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Validar.correo.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6muokfsx5p",
-      "Integrity": "Ah+pwFKbleWT1nh8DHeNb/IsxBnIajmyConfMyeyOT4=",
+      "Fingerprint": "u0bluwtkej",
+      "Integrity": "Dlmg0Mq35u83zC87gFfVDeEpLSxVnCB7NrGklSZcsZg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Validar.correo.pdb"
@@ -7409,7 +7409,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Formats.Asn1.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ml55l7dhbi-s0rvaeuy9x.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ml55l7dhbi-1603owvgda.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -7423,8 +7423,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\CalculadoraWeb.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "672a4gj0ih",
-      "Integrity": "oh3MMA/qqRp2b+l5l7GDatQhSpIlwtJ7NdXb7BP7Xh0=",
+      "Fingerprint": "6z0faw7fb9",
+      "Integrity": "sqxN0sjJT99DantM2hcX/b4GN2YCGtnYvDJuhjrsack=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\CalculadoraWeb.pdb"
@@ -7703,7 +7703,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.ComponentModel.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ou9fm42yty-tslqk5t2zj.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ou9fm42yty-7o8qplycnk.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -7717,8 +7717,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Validar.Logica.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vf70ropoqw",
-      "Integrity": "Ve/zDjJturzgDOXoo39Ul1vV3NRC7VWgXJ6Bkc/plu8=",
+      "Fingerprint": "2rl4c85v06",
+      "Integrity": "HgOJy7XvfMM8HOxaTRgaSS9IfjlSYePmAl11KcBVdik=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Validar.Logica.wasm"
@@ -7787,7 +7787,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tools.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\pbbpoe2rz4-jutyfpb86e.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\pbbpoe2rz4-6hhxxt1vno.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -7801,8 +7801,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "of4k0mcx6f",
-      "Integrity": "jJTaFn25dsevqrJ9f8/eJlomNRzYPuCfvCL58l0N2FA=",
+      "Fingerprint": "ysn9h47ntr",
+      "Integrity": "wlG/fMNsnxYcTsMRW7Do8KuHnn/H7a8BRf7LL/FOH00=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8417,7 +8417,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\vitbnw9qve-c11ijnrpxh.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\vitbnw9qve-1vwo4wzvba.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -8431,8 +8431,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\CalculadoraWeb.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pbco9gd9w7",
-      "Integrity": "ZU0Cd40Ws1BmyBWWDy9qkWht15sBr48wKuOxRRfCFzs=",
+      "Fingerprint": "ug3xzdbkg7",
+      "Integrity": "zpYBaGliFpoqVWOpAK0I9AHgYsOEw20ZsOoUZrOG5UY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\CalculadoraWeb.wasm"
@@ -8459,7 +8459,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Formats.Tar.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\wdv65fbb56-c47lym7kyb.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\wdv65fbb56-1kkk6lj247.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\",
@@ -8473,8 +8473,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Validar.Logica.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "t4cvnqbgvy",
-      "Integrity": "0+EmHQdZSy+mpAjj76uoAQSjuUaSFiHLhK+wSpZfO00=",
+      "Fingerprint": "78mb7o9re5",
+      "Integrity": "uaPKHFVbX9TQQf7fjTzdR/Oisk6+b/7BHtAQ3FaNI2Y=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\Validar.Logica.pdb"
@@ -9080,7 +9080,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20173"
+          "Value": "20162"
         },
         {
           "Name": "Content-Type",
@@ -9088,7 +9088,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m+6IJr0cHSRw1GemvokgfPsy4hOZ5FxuIydXzhUFke4=\""
+          "Value": "\"RgSmh1S5AkWxBZa/9S57l+1W0Xuyjp+I75JAxPk2Nps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 22:34:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgSmh1S5AkWxBZa/9S57l+1W0Xuyjp+I75JAxPk2Nps="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\pbbpoe2rz4-6hhxxt1vno.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000111756817"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8947"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wlG/fMNsnxYcTsMRW7Do8KuHnn/H7a8BRf7LL/FOH00=\""
         },
         {
           "Name": "Last-Modified",
@@ -9097,45 +9136,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-m+6IJr0cHSRw1GemvokgfPsy4hOZ5FxuIydXzhUFke4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\pbbpoe2rz4-jutyfpb86e.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000111819300"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8942"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jJTaFn25dsevqrJ9f8/eJlomNRzYPuCfvCL58l0N2FA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9151,19 +9151,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"m+6IJr0cHSRw1GemvokgfPsy4hOZ5FxuIydXzhUFke4=\""
+          "Value": "W/\"RgSmh1S5AkWxBZa/9S57l+1W0Xuyjp+I75JAxPk2Nps=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-m+6IJr0cHSRw1GemvokgfPsy4hOZ5FxuIydXzhUFke4="
+          "Value": "sha256-RgSmh1S5AkWxBZa/9S57l+1W0Xuyjp+I75JAxPk2Nps="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\pbbpoe2rz4-jutyfpb86e.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\pbbpoe2rz4-6hhxxt1vno.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9172,7 +9172,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8942"
+          "Value": "8947"
         },
         {
           "Name": "Content-Type",
@@ -9180,11 +9180,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jJTaFn25dsevqrJ9f8/eJlomNRzYPuCfvCL58l0N2FA=\""
+          "Value": "\"wlG/fMNsnxYcTsMRW7Do8KuHnn/H7a8BRf7LL/FOH00=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 21:59:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9202,7 +9202,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jJTaFn25dsevqrJ9f8/eJlomNRzYPuCfvCL58l0N2FA="
+          "Value": "sha256-wlG/fMNsnxYcTsMRW7Do8KuHnn/H7a8BRf7LL/FOH00="
         }
       ]
     },
@@ -9354,7 +9354,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10988"
+          "Value": "11008"
         },
         {
           "Name": "Content-Type",
@@ -9362,7 +9362,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Hj/SWgn683Y1Gy1IDxKmEaJ6wX5DbyqluX4kFR9Kc8A=\""
+          "Value": "\"eR2iE8vgKPxU89+6wnAcWcxybMF/9vEXcXz1n6gdIuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 22:34:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eR2iE8vgKPxU89+6wnAcWcxybMF/9vEXcXz1n6gdIuI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Calculadora.Logica.pdb",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\5d5kty41bp-xemshffyof.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000154702970"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6463"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zt2xuK0kQIWnPV2kJEgl2NL5fNOCbDY0GB90wvBJ9IY=\""
         },
         {
           "Name": "Last-Modified",
@@ -9371,45 +9410,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Hj/SWgn683Y1Gy1IDxKmEaJ6wX5DbyqluX4kFR9Kc8A="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Calculadora.Logica.pdb",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\5d5kty41bp-yfqdoo0wm1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000154655119"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6465"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HY82+sy4mhtq9q/Sgrajy4zID5qQT/cdRw3QqZlDTeo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9425,19 +9425,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Hj/SWgn683Y1Gy1IDxKmEaJ6wX5DbyqluX4kFR9Kc8A=\""
+          "Value": "W/\"eR2iE8vgKPxU89+6wnAcWcxybMF/9vEXcXz1n6gdIuI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Hj/SWgn683Y1Gy1IDxKmEaJ6wX5DbyqluX4kFR9Kc8A="
+          "Value": "sha256-eR2iE8vgKPxU89+6wnAcWcxybMF/9vEXcXz1n6gdIuI="
         }
       ]
     },
     {
       "Route": "_framework/Calculadora.Logica.pdb.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\5d5kty41bp-yfqdoo0wm1.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\5d5kty41bp-xemshffyof.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9446,7 +9446,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6465"
+          "Value": "6463"
         },
         {
           "Name": "Content-Type",
@@ -9454,11 +9454,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HY82+sy4mhtq9q/Sgrajy4zID5qQT/cdRw3QqZlDTeo=\""
+          "Value": "\"Zt2xuK0kQIWnPV2kJEgl2NL5fNOCbDY0GB90wvBJ9IY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:49 GMT"
+          "Value": "Thu, 10 Jul 2025 21:59:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9476,7 +9476,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HY82+sy4mhtq9q/Sgrajy4zID5qQT/cdRw3QqZlDTeo="
+          "Value": "sha256-Zt2xuK0kQIWnPV2kJEgl2NL5fNOCbDY0GB90wvBJ9IY="
         }
       ]
     },
@@ -9499,7 +9499,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E/ju1dwEC367GajZuzbaSui9WArV0snOeqHAdIeAevs=\""
+          "Value": "\"ROvTzTT8bansSgQcU8L9+zSEVY9clZfhSC6UbwirApM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 22:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ROvTzTT8bansSgQcU8L9+zSEVY9clZfhSC6UbwirApM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Calculadora.Logica.wasm",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\800saw0ow4-cs428amnwk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000574052813"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1741"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+EKck63G/bw/BofoaJUtMPWVpyzhhsY2KTML2PdiFNU=\""
         },
         {
           "Name": "Last-Modified",
@@ -9508,45 +9547,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-E/ju1dwEC367GajZuzbaSui9WArV0snOeqHAdIeAevs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Calculadora.Logica.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\800saw0ow4-dk9a5x7ofr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000575043128"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1738"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"F644lVxGF5e+MS5RwLYILnYStw+wlJSj8tbsMYwnSqM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9562,19 +9562,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"E/ju1dwEC367GajZuzbaSui9WArV0snOeqHAdIeAevs=\""
+          "Value": "W/\"ROvTzTT8bansSgQcU8L9+zSEVY9clZfhSC6UbwirApM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-E/ju1dwEC367GajZuzbaSui9WArV0snOeqHAdIeAevs="
+          "Value": "sha256-ROvTzTT8bansSgQcU8L9+zSEVY9clZfhSC6UbwirApM="
         }
       ]
     },
     {
       "Route": "_framework/Calculadora.Logica.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\800saw0ow4-dk9a5x7ofr.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\800saw0ow4-cs428amnwk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9583,7 +9583,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1738"
+          "Value": "1741"
         },
         {
           "Name": "Content-Type",
@@ -9591,11 +9591,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F644lVxGF5e+MS5RwLYILnYStw+wlJSj8tbsMYwnSqM=\""
+          "Value": "\"+EKck63G/bw/BofoaJUtMPWVpyzhhsY2KTML2PdiFNU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 21:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9613,7 +9613,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F644lVxGF5e+MS5RwLYILnYStw+wlJSj8tbsMYwnSqM="
+          "Value": "sha256-+EKck63G/bw/BofoaJUtMPWVpyzhhsY2KTML2PdiFNU="
         }
       ]
     },
@@ -9628,7 +9628,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46420"
+          "Value": "49860"
         },
         {
           "Name": "Content-Type",
@@ -9636,7 +9636,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dMP+1zoFMyzcnpyhSuTZkcVENKDi6OsncvUV5dOmKwk=\""
+          "Value": "\"Z1QGLt74a0vn4TGXQxVtDXXAvoPD/EkRQ/xgJbNVatc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 22:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z1QGLt74a0vn4TGXQxVtDXXAvoPD/EkRQ/xgJbNVatc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CalculadoraWeb.pdb",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ml55l7dhbi-1603owvgda.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000026621233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37563"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sqxN0sjJT99DantM2hcX/b4GN2YCGtnYvDJuhjrsack=\""
         },
         {
           "Name": "Last-Modified",
@@ -9645,45 +9684,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dMP+1zoFMyzcnpyhSuTZkcVENKDi6OsncvUV5dOmKwk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CalculadoraWeb.pdb",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ml55l7dhbi-s0rvaeuy9x.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000026620524"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "37564"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oh3MMA/qqRp2b+l5l7GDatQhSpIlwtJ7NdXb7BP7Xh0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9699,19 +9699,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dMP+1zoFMyzcnpyhSuTZkcVENKDi6OsncvUV5dOmKwk=\""
+          "Value": "W/\"Z1QGLt74a0vn4TGXQxVtDXXAvoPD/EkRQ/xgJbNVatc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dMP+1zoFMyzcnpyhSuTZkcVENKDi6OsncvUV5dOmKwk="
+          "Value": "sha256-Z1QGLt74a0vn4TGXQxVtDXXAvoPD/EkRQ/xgJbNVatc="
         }
       ]
     },
     {
       "Route": "_framework/CalculadoraWeb.pdb.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ml55l7dhbi-s0rvaeuy9x.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ml55l7dhbi-1603owvgda.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9720,7 +9720,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37564"
+          "Value": "37563"
         },
         {
           "Name": "Content-Type",
@@ -9728,11 +9728,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oh3MMA/qqRp2b+l5l7GDatQhSpIlwtJ7NdXb7BP7Xh0=\""
+          "Value": "\"sqxN0sjJT99DantM2hcX/b4GN2YCGtnYvDJuhjrsack=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 21:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9750,7 +9750,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oh3MMA/qqRp2b+l5l7GDatQhSpIlwtJ7NdXb7BP7Xh0="
+          "Value": "sha256-sqxN0sjJT99DantM2hcX/b4GN2YCGtnYvDJuhjrsack="
         }
       ]
     },
@@ -9765,7 +9765,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "65813"
+          "Value": "73493"
         },
         {
           "Name": "Content-Type",
@@ -9773,7 +9773,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wHRYOV03n6VBAC5vWINnhb4zuGDm8dumcMqehSwiO8s=\""
+          "Value": "\"XbA4aJwLiNlI4RKa3w9zjvYbqOmFKE6JyQDN1mQ9E4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 22:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbA4aJwLiNlI4RKa3w9zjvYbqOmFKE6JyQDN1mQ9E4I="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CalculadoraWeb.wasm",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\vitbnw9qve-1vwo4wzvba.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000038954462"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25670"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zpYBaGliFpoqVWOpAK0I9AHgYsOEw20ZsOoUZrOG5UY=\""
         },
         {
           "Name": "Last-Modified",
@@ -9782,45 +9821,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wHRYOV03n6VBAC5vWINnhb4zuGDm8dumcMqehSwiO8s="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CalculadoraWeb.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\vitbnw9qve-c11ijnrpxh.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000038960533"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "25666"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZU0Cd40Ws1BmyBWWDy9qkWht15sBr48wKuOxRRfCFzs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9836,19 +9836,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wHRYOV03n6VBAC5vWINnhb4zuGDm8dumcMqehSwiO8s=\""
+          "Value": "W/\"XbA4aJwLiNlI4RKa3w9zjvYbqOmFKE6JyQDN1mQ9E4I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wHRYOV03n6VBAC5vWINnhb4zuGDm8dumcMqehSwiO8s="
+          "Value": "sha256-XbA4aJwLiNlI4RKa3w9zjvYbqOmFKE6JyQDN1mQ9E4I="
         }
       ]
     },
     {
       "Route": "_framework/CalculadoraWeb.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\vitbnw9qve-c11ijnrpxh.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\vitbnw9qve-1vwo4wzvba.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9857,7 +9857,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25666"
+          "Value": "25670"
         },
         {
           "Name": "Content-Type",
@@ -9865,11 +9865,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZU0Cd40Ws1BmyBWWDy9qkWht15sBr48wKuOxRRfCFzs=\""
+          "Value": "\"zpYBaGliFpoqVWOpAK0I9AHgYsOEw20ZsOoUZrOG5UY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 21:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9887,7 +9887,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZU0Cd40Ws1BmyBWWDy9qkWht15sBr48wKuOxRRfCFzs="
+          "Value": "sha256-zpYBaGliFpoqVWOpAK0I9AHgYsOEw20ZsOoUZrOG5UY="
         }
       ]
     },
@@ -10227,7 +10227,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:59:41 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10280,7 +10280,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:59:41 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10501,7 +10501,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:59:41 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10554,7 +10554,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:59:41 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10775,7 +10775,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:59:41 GMT"
+          "Value": "Thu, 17 Oct 2024 18:59:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10828,7 +10828,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:59:41 GMT"
+          "Value": "Thu, 17 Oct 2024 18:59:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11323,7 +11323,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11376,7 +11376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11460,7 +11460,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11513,7 +11513,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11597,7 +11597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11650,7 +11650,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11734,7 +11734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11787,7 +11787,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11871,7 +11871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11924,7 +11924,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12008,7 +12008,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12061,7 +12061,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12145,7 +12145,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12198,7 +12198,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12282,7 +12282,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12335,7 +12335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12419,7 +12419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12472,7 +12472,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12556,7 +12556,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12609,7 +12609,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12693,7 +12693,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12746,7 +12746,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12830,7 +12830,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12883,7 +12883,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12967,7 +12967,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13020,7 +13020,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13104,7 +13104,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13157,7 +13157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13241,7 +13241,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13294,7 +13294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13378,7 +13378,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13431,7 +13431,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:50 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13515,7 +13515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13568,7 +13568,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13652,7 +13652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13705,7 +13705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13789,7 +13789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13842,7 +13842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13926,7 +13926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13979,7 +13979,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14063,7 +14063,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14116,7 +14116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14200,7 +14200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14253,7 +14253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14337,7 +14337,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14390,7 +14390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14474,7 +14474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14527,7 +14527,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14611,7 +14611,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14664,7 +14664,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14748,7 +14748,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14801,7 +14801,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14885,7 +14885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14938,7 +14938,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15022,7 +15022,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:56 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15075,7 +15075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:56 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15159,7 +15159,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:56 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15212,7 +15212,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:56 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15296,7 +15296,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15349,7 +15349,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15433,7 +15433,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15486,7 +15486,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15570,7 +15570,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15623,7 +15623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:51 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15707,7 +15707,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15760,7 +15760,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15844,7 +15844,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15897,7 +15897,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15981,7 +15981,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16034,7 +16034,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16118,7 +16118,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16171,7 +16171,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16255,7 +16255,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16308,7 +16308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16392,7 +16392,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16445,7 +16445,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16529,7 +16529,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16582,7 +16582,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16666,7 +16666,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16719,7 +16719,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16803,7 +16803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16856,7 +16856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16940,7 +16940,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16993,7 +16993,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17077,7 +17077,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17130,7 +17130,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:52 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17214,7 +17214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17267,7 +17267,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17351,7 +17351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17404,7 +17404,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17488,7 +17488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17541,7 +17541,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17625,7 +17625,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17678,7 +17678,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17762,7 +17762,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17815,7 +17815,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17899,7 +17899,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17952,7 +17952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18036,7 +18036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18089,7 +18089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18173,7 +18173,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18226,7 +18226,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18310,7 +18310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18363,7 +18363,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18447,7 +18447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18500,7 +18500,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18584,7 +18584,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18637,7 +18637,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18721,7 +18721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18774,7 +18774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18858,7 +18858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18911,7 +18911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18995,7 +18995,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19048,7 +19048,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19132,7 +19132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19185,7 +19185,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19269,7 +19269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19322,7 +19322,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19406,7 +19406,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19459,7 +19459,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19543,7 +19543,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19596,7 +19596,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19680,7 +19680,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19733,7 +19733,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19817,7 +19817,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19870,7 +19870,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19954,7 +19954,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20007,7 +20007,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20091,7 +20091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20144,7 +20144,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20228,7 +20228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20281,7 +20281,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20365,7 +20365,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20418,7 +20418,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:53 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20502,7 +20502,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20555,7 +20555,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20639,7 +20639,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20692,7 +20692,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20776,7 +20776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20829,7 +20829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20913,7 +20913,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20966,7 +20966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21050,7 +21050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21103,7 +21103,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21187,7 +21187,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21240,7 +21240,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21324,7 +21324,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21377,7 +21377,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21461,7 +21461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21514,7 +21514,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21598,7 +21598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21651,7 +21651,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21735,7 +21735,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21788,7 +21788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21872,7 +21872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21925,7 +21925,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22009,7 +22009,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22062,7 +22062,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22146,7 +22146,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22199,7 +22199,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22283,7 +22283,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22336,7 +22336,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22420,7 +22420,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22473,7 +22473,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22557,7 +22557,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22610,7 +22610,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22694,7 +22694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22747,7 +22747,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22831,7 +22831,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22884,7 +22884,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22968,7 +22968,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23021,7 +23021,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23105,7 +23105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23158,7 +23158,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23242,7 +23242,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23295,7 +23295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23379,7 +23379,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23432,7 +23432,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23516,7 +23516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23569,7 +23569,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23653,7 +23653,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23706,7 +23706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23790,7 +23790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23843,7 +23843,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23927,7 +23927,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23980,7 +23980,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24064,7 +24064,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24117,7 +24117,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24201,7 +24201,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24254,7 +24254,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24338,7 +24338,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24391,7 +24391,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24475,7 +24475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24528,7 +24528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24612,7 +24612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24665,7 +24665,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24749,7 +24749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24802,7 +24802,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24886,7 +24886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24939,7 +24939,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25023,7 +25023,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25076,7 +25076,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25160,7 +25160,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25213,7 +25213,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25297,7 +25297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25350,7 +25350,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25434,7 +25434,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25487,7 +25487,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25571,7 +25571,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25624,7 +25624,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25708,7 +25708,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25761,7 +25761,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25845,7 +25845,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25898,7 +25898,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25982,7 +25982,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26035,7 +26035,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:54 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26119,7 +26119,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26172,7 +26172,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26256,7 +26256,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26309,7 +26309,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26393,7 +26393,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26446,7 +26446,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26530,7 +26530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26583,7 +26583,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26667,7 +26667,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26720,7 +26720,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26804,7 +26804,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26857,7 +26857,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26941,7 +26941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26994,7 +26994,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27078,7 +27078,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27131,7 +27131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27215,7 +27215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27268,7 +27268,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27352,7 +27352,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27405,7 +27405,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27489,7 +27489,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27542,7 +27542,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27626,7 +27626,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27679,7 +27679,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27763,7 +27763,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27816,7 +27816,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27900,7 +27900,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27953,7 +27953,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28037,7 +28037,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28090,7 +28090,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28174,7 +28174,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28227,7 +28227,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28311,7 +28311,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28364,7 +28364,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28448,7 +28448,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28501,7 +28501,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28585,7 +28585,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28638,7 +28638,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28722,7 +28722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28775,7 +28775,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28859,7 +28859,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28912,7 +28912,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28996,7 +28996,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29049,7 +29049,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29133,7 +29133,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29186,7 +29186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29270,7 +29270,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29323,7 +29323,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29407,7 +29407,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29460,7 +29460,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29544,7 +29544,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29597,7 +29597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29681,7 +29681,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29734,7 +29734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29818,7 +29818,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29871,7 +29871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -29955,7 +29955,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30008,7 +30008,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30092,7 +30092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30145,7 +30145,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30229,7 +30229,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30282,7 +30282,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30366,7 +30366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30419,7 +30419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30503,7 +30503,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30556,7 +30556,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30640,7 +30640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30693,7 +30693,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30777,7 +30777,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30830,7 +30830,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30914,7 +30914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30967,7 +30967,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31051,7 +31051,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31104,7 +31104,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31188,7 +31188,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31241,7 +31241,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31325,7 +31325,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31378,7 +31378,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31462,7 +31462,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31515,7 +31515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31599,7 +31599,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31652,7 +31652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31736,7 +31736,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31789,7 +31789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31873,7 +31873,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31926,7 +31926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32010,7 +32010,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32063,7 +32063,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32147,7 +32147,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32200,7 +32200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32284,7 +32284,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32337,7 +32337,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32421,7 +32421,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32474,7 +32474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32558,7 +32558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32611,7 +32611,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32695,7 +32695,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32748,7 +32748,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32832,7 +32832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32885,7 +32885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -32969,7 +32969,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33022,7 +33022,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33106,7 +33106,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33159,7 +33159,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33243,7 +33243,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33296,7 +33296,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33380,7 +33380,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33433,7 +33433,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33517,7 +33517,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33570,7 +33570,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33654,7 +33654,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33707,7 +33707,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33791,7 +33791,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33844,7 +33844,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33928,7 +33928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33981,7 +33981,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34065,7 +34065,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34118,7 +34118,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34202,7 +34202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34255,7 +34255,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34339,7 +34339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34392,7 +34392,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34476,7 +34476,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34529,7 +34529,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34613,7 +34613,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34666,7 +34666,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34750,7 +34750,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34803,7 +34803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34887,7 +34887,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -34940,7 +34940,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35024,7 +35024,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35077,7 +35077,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35161,7 +35161,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35214,7 +35214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35298,7 +35298,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35351,7 +35351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35435,7 +35435,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35488,7 +35488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35572,7 +35572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35625,7 +35625,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35709,7 +35709,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35762,7 +35762,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35846,7 +35846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35899,7 +35899,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35983,7 +35983,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36036,7 +36036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36120,7 +36120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36173,7 +36173,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36257,7 +36257,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36310,7 +36310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36394,7 +36394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36447,7 +36447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36531,7 +36531,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36584,7 +36584,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36668,7 +36668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36721,7 +36721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36805,7 +36805,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36858,7 +36858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36942,7 +36942,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36995,7 +36995,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37079,7 +37079,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37132,7 +37132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37216,7 +37216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37269,7 +37269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37302,7 +37302,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10976"
+          "Value": "10996"
         },
         {
           "Name": "Content-Type",
@@ -37310,7 +37310,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yyTsgmuRaGKSEwjTS6YxEkeQR02NGpVoXjuqUInmOJw=\""
+          "Value": "\"+JrTRwggWTG7uhkzZpB09V3p3ov325auzFZEysr5qn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 22:34:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+JrTRwggWTG7uhkzZpB09V3p3ov325auzFZEysr5qn4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Validar.correo.pdb",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\i1ldbvu2h5-wubov5um2b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000154035736"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6491"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dlmg0Mq35u83zC87gFfVDeEpLSxVnCB7NrGklSZcsZg=\""
         },
         {
           "Name": "Last-Modified",
@@ -37319,45 +37358,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yyTsgmuRaGKSEwjTS6YxEkeQR02NGpVoXjuqUInmOJw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Validar.correo.pdb",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\i1ldbvu2h5-589q6xw1kd.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000154012013"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6492"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ah+pwFKbleWT1nh8DHeNb/IsxBnIajmyConfMyeyOT4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -37373,19 +37373,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yyTsgmuRaGKSEwjTS6YxEkeQR02NGpVoXjuqUInmOJw=\""
+          "Value": "W/\"+JrTRwggWTG7uhkzZpB09V3p3ov325auzFZEysr5qn4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yyTsgmuRaGKSEwjTS6YxEkeQR02NGpVoXjuqUInmOJw="
+          "Value": "sha256-+JrTRwggWTG7uhkzZpB09V3p3ov325auzFZEysr5qn4="
         }
       ]
     },
     {
       "Route": "_framework/Validar.correo.pdb.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\i1ldbvu2h5-589q6xw1kd.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\i1ldbvu2h5-wubov5um2b.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -37394,7 +37394,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6492"
+          "Value": "6491"
         },
         {
           "Name": "Content-Type",
@@ -37402,11 +37402,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ah+pwFKbleWT1nh8DHeNb/IsxBnIajmyConfMyeyOT4=\""
+          "Value": "\"Dlmg0Mq35u83zC87gFfVDeEpLSxVnCB7NrGklSZcsZg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 21:59:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37424,7 +37424,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ah+pwFKbleWT1nh8DHeNb/IsxBnIajmyConfMyeyOT4="
+          "Value": "sha256-Dlmg0Mq35u83zC87gFfVDeEpLSxVnCB7NrGklSZcsZg="
         }
       ]
     },
@@ -37447,7 +37447,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OKX98zvk8Y4p8ZfWZvKSFo20RloY+JxO77eWZwoydBA=\""
+          "Value": "\"e18REQQbH84j5Dy23IX38YwZ5ii0E/RLd2ZPNXZBjSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 22:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e18REQQbH84j5Dy23IX38YwZ5ii0E/RLd2ZPNXZBjSg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Validar.correo.wasm",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\4aoqqfgyn4-rogolw4cuz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000441891295"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2262"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8NJTHgeekjSWozPEhe6JEZeDA0aHcUWtbky4aJhO9Qw=\""
         },
         {
           "Name": "Last-Modified",
@@ -37456,45 +37495,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OKX98zvk8Y4p8ZfWZvKSFo20RloY+JxO77eWZwoydBA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Validar.correo.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\4aoqqfgyn4-oczhwi3cp7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000443852641"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2252"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"41YhEWADnqaqF6mLQE7rALvw8NqHJNZMkX5YasMIpB8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -37510,19 +37510,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OKX98zvk8Y4p8ZfWZvKSFo20RloY+JxO77eWZwoydBA=\""
+          "Value": "W/\"e18REQQbH84j5Dy23IX38YwZ5ii0E/RLd2ZPNXZBjSg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OKX98zvk8Y4p8ZfWZvKSFo20RloY+JxO77eWZwoydBA="
+          "Value": "sha256-e18REQQbH84j5Dy23IX38YwZ5ii0E/RLd2ZPNXZBjSg="
         }
       ]
     },
     {
       "Route": "_framework/Validar.correo.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\4aoqqfgyn4-oczhwi3cp7.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\4aoqqfgyn4-rogolw4cuz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -37531,7 +37531,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2252"
+          "Value": "2262"
         },
         {
           "Name": "Content-Type",
@@ -37539,11 +37539,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"41YhEWADnqaqF6mLQE7rALvw8NqHJNZMkX5YasMIpB8=\""
+          "Value": "\"8NJTHgeekjSWozPEhe6JEZeDA0aHcUWtbky4aJhO9Qw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 21:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37561,7 +37561,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-41YhEWADnqaqF6mLQE7rALvw8NqHJNZMkX5YasMIpB8="
+          "Value": "sha256-8NJTHgeekjSWozPEhe6JEZeDA0aHcUWtbky4aJhO9Qw="
         }
       ]
     },
@@ -37576,7 +37576,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11020"
+          "Value": "11040"
         },
         {
           "Name": "Content-Type",
@@ -37584,7 +37584,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tP56nBWMqAWkK3EzukPiBdxe4ZuFCopWG30zHoPldFg=\""
+          "Value": "\"EY/Ch/4q9eob5TTFMbNExjhkyot3+xxx6v7Z2SrDr1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 22:34:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EY/Ch/4q9eob5TTFMbNExjhkyot3+xxx6v7Z2SrDr1A="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Validar.Logica.pdb",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\wdv65fbb56-1kkk6lj247.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000153775181"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6502"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uaPKHFVbX9TQQf7fjTzdR/Oisk6+b/7BHtAQ3FaNI2Y=\""
         },
         {
           "Name": "Last-Modified",
@@ -37593,45 +37632,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tP56nBWMqAWkK3EzukPiBdxe4ZuFCopWG30zHoPldFg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Validar.Logica.pdb",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\wdv65fbb56-c47lym7kyb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000153727902"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6504"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0+EmHQdZSy+mpAjj76uoAQSjuUaSFiHLhK+wSpZfO00=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -37647,19 +37647,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tP56nBWMqAWkK3EzukPiBdxe4ZuFCopWG30zHoPldFg=\""
+          "Value": "W/\"EY/Ch/4q9eob5TTFMbNExjhkyot3+xxx6v7Z2SrDr1A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tP56nBWMqAWkK3EzukPiBdxe4ZuFCopWG30zHoPldFg="
+          "Value": "sha256-EY/Ch/4q9eob5TTFMbNExjhkyot3+xxx6v7Z2SrDr1A="
         }
       ]
     },
     {
       "Route": "_framework/Validar.Logica.pdb.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\wdv65fbb56-c47lym7kyb.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\wdv65fbb56-1kkk6lj247.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -37668,7 +37668,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6504"
+          "Value": "6502"
         },
         {
           "Name": "Content-Type",
@@ -37676,11 +37676,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0+EmHQdZSy+mpAjj76uoAQSjuUaSFiHLhK+wSpZfO00=\""
+          "Value": "\"uaPKHFVbX9TQQf7fjTzdR/Oisk6+b/7BHtAQ3FaNI2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 21:59:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37698,7 +37698,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0+EmHQdZSy+mpAjj76uoAQSjuUaSFiHLhK+wSpZfO00="
+          "Value": "sha256-uaPKHFVbX9TQQf7fjTzdR/Oisk6+b/7BHtAQ3FaNI2Y="
         }
       ]
     },
@@ -37721,7 +37721,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3QipyxB1xMUPPKQduqh3U9GdzwuCC0TkCle+1jGHRsw=\""
+          "Value": "\"mQRrlzeV7umPvyfxqQobcPxBeb1jq1Lx3zcZKwcROAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 22:34:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mQRrlzeV7umPvyfxqQobcPxBeb1jq1Lx3zcZKwcROAk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Validar.Logica.wasm",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ou9fm42yty-7o8qplycnk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000446030330"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2241"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HgOJy7XvfMM8HOxaTRgaSS9IfjlSYePmAl11KcBVdik=\""
         },
         {
           "Name": "Last-Modified",
@@ -37730,45 +37769,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3QipyxB1xMUPPKQduqh3U9GdzwuCC0TkCle+1jGHRsw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Validar.Logica.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ou9fm42yty-tslqk5t2zj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000445235975"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2245"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ve/zDjJturzgDOXoo39Ul1vV3NRC7VWgXJ6Bkc/plu8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -37784,19 +37784,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3QipyxB1xMUPPKQduqh3U9GdzwuCC0TkCle+1jGHRsw=\""
+          "Value": "W/\"mQRrlzeV7umPvyfxqQobcPxBeb1jq1Lx3zcZKwcROAk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3QipyxB1xMUPPKQduqh3U9GdzwuCC0TkCle+1jGHRsw="
+          "Value": "sha256-mQRrlzeV7umPvyfxqQobcPxBeb1jq1Lx3zcZKwcROAk="
         }
       ]
     },
     {
       "Route": "_framework/Validar.Logica.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ou9fm42yty-tslqk5t2zj.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\ou9fm42yty-7o8qplycnk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -37805,7 +37805,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2245"
+          "Value": "2241"
         },
         {
           "Name": "Content-Type",
@@ -37813,11 +37813,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ve/zDjJturzgDOXoo39Ul1vV3NRC7VWgXJ6Bkc/plu8=\""
+          "Value": "\"HgOJy7XvfMM8HOxaTRgaSS9IfjlSYePmAl11KcBVdik=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 21:59:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37835,7 +37835,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ve/zDjJturzgDOXoo39Ul1vV3NRC7VWgXJ6Bkc/plu8="
+          "Value": "sha256-HgOJy7XvfMM8HOxaTRgaSS9IfjlSYePmAl11KcBVdik="
         }
       ]
     },
@@ -37901,7 +37901,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37954,7 +37954,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 19:11:55 GMT"
+          "Value": "Thu, 10 Jul 2025 19:12:10 GMT"
         },
         {
           "Name": "Cache-Control",
