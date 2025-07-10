@@ -12,7 +12,13 @@
 <div class="form-group mt-2">
     <input @bind="palabraClave" @oninput="OnInputChanged" class="form-control" placeholder="Palabra personalizada (opcional)" />
 </div>
+
 <button class="btn btn-success mt-3" @onclick="GenerarCorreos">@botonTexto</button>
+
+@if (!string.IsNullOrEmpty(mensajeError))
+{
+    <div class="alert alert-warning mt-3">@mensajeError</div>
+}
 
 @if (soloLetras.Count > 0 || conNumeros.Count > 0)
 {
@@ -46,11 +52,20 @@
     private List<string> conNumeros = new();
     private string botonTexto = "Generar Correos";
     private bool yaGenerado = false;
+    private string mensajeError = string.Empty;
 
     private void GenerarCorreos()
     {
+        mensajeError = string.Empty;
+        if (string.IsNullOrWhiteSpace(nombre) && string.IsNullOrWhiteSpace(apellido) && string.IsNullOrWhiteSpace(palabraClave))
+        {
+            mensajeError = "Llene al menos uno de los campos para generar el correo.";
+            soloLetras.Clear();
+            conNumeros.Clear();
+            return;
+        }
         var clave = string.IsNullOrWhiteSpace(palabraClave) ? "" : palabraClave;
-        var sugerencias = GeneradorCorreo.GenerarCorreos(nombre, apellido, clave);
+        var sugerencias = GeneradorCorreo.GenerarCorreos(nombre ?? "", apellido ?? "", clave);
         soloLetras = sugerencias.Where(c => !c.Any(char.IsDigit)).Take(5).ToList();
         conNumeros = sugerencias.Where(c => c.Any(char.IsDigit)).Take(5).ToList();
         if (!yaGenerado)
@@ -69,6 +84,7 @@
             soloLetras.Clear();
             conNumeros.Clear();
         }
+        mensajeError = string.Empty;
     }
 }
 
