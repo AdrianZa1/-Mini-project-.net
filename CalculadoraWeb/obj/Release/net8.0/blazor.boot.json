@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CalculadoraWeb",
   "resources": {
-    "hash": "sha256-PZh/KY3rWPWh4Inq2W0klXqo/yLWsy8rYlcirYdl/NU=",
+    "hash": "sha256-ZPmFvlSfhLur+aF3ShiEwYUh2irmG3iO8yJNb4TWVlg=",
     "jsModuleNative": {
       "dotnet.native.8.0.18.0ol0ci50rn.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -208,16 +208,16 @@
       "mscorlib.wasm": "sha256-UnQd0YPXNpwbXsKqO8RAqgUVuwZsSpprfAIPpdV/y1Q=",
       "netstandard.wasm": "sha256-/QbD8JDZyYwfyk89W3qJL3HTAINDCVziZIySHIZcDhw=",
       "System.Private.CoreLib.wasm": "sha256-oBqNgH7R24FqGbaL3XnfQDqn3rk28jERFosgAryKT6U=",
-      "Calculadora.Logica.wasm": "sha256-ZarUg/+tI1rpHPgTmXBDbyvqG5PoNO1+n/9GjrqDm7c=",
-      "Validar.correo.wasm": "sha256-XmbdERIK79EK4Fv7rSfiRr85BIlXZNSg1ZHMH/N4Ltk=",
-      "Validar.Logica.wasm": "sha256-RuAL6t/apGXqRC26W92njWHgh2fsj/az+apl68P2lBI=",
-      "CalculadoraWeb.wasm": "sha256-soTMy1UHg+/qZPk/NDSmoCUNj6Tx6PwMzOt7pL33hyo="
+      "Calculadora.Logica.wasm": "sha256-2HGwePnGtk54lKupSd0O1YrPJbjw0YGP+F1oGPwdxG4=",
+      "Validar.correo.wasm": "sha256-2HdIdqWIduaOewq0JVEUUBqCBrlLN/x2XZ9VmTQa7Mk=",
+      "Validar.Logica.wasm": "sha256-VKqngXsnaeEWXSBYfeh/tE61lsg7dXkK5y0xQ2Xqw78=",
+      "CalculadoraWeb.wasm": "sha256-imrc83MfY41NY3GmV66UydFLBeTIh/5TcCoFlzjmI60="
     },
     "pdb": {
-      "Validar.Logica.pdb": "sha256-ao3lzRKzWsZMVBTCi+3c1EVkcw73a/S4DPZgxbBOOmQ=",
-      "Calculadora.Logica.pdb": "sha256-WlUw+dHF4J7Wyn+vcQ+t24MVd9Qo7lcmIjUCt5hIEMI=",
-      "Validar.correo.pdb": "sha256-N4tk/NO+ThYszOGiYeCME5gWmO/vzH9nH7CmTU6v5HY=",
-      "CalculadoraWeb.pdb": "sha256-3DZMnbQTLC13DTV6bONEC6QL1gCJqNiuxhXDNevpNWg="
+      "Validar.Logica.pdb": "sha256-7bZ4m8LFxgSJFv+tSgoCiX0XgWrszzvw+Il5XE3AcJo=",
+      "Calculadora.Logica.pdb": "sha256-Dlrg4xBd/h/lytfMIgCVw6RQJWq2I56tiop4EqBZtWY=",
+      "Validar.correo.pdb": "sha256-ohj918L17BC32OiqKCOQbw0SYUTU1DH+OqC7SrxyUKM=",
+      "CalculadoraWeb.pdb": "sha256-kzQMxS0slU/F+YyrLi3yqGT74H3LbQqiob5P8eiPwZ4="
     }
   },
   "cacheBootResources": true,

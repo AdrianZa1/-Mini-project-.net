@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Validar.correo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1dfb4039d2d478e2ec53a2f96d31dd6b6a993c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4809a8b9addffe08a6ed3ff13db59040824285e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Validar.correo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Validar.correo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
