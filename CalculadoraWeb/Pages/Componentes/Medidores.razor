@@ -1,0 +1,134 @@
+@using CalculadoraWeb.Models
+@using Microsoft.AspNetCore.Components
+@using Microsoft.AspNetCore.Components.Forms
+
+<h4 class="mt-4">Medidores</h4>
+<button class="btn btn-primary mb-2" @onclick="ShowAddMedidor">➕ Nuevo Medidor</button>
+
+@if (showFormMedidor)
+{
+    <EditForm Model="nuevoMedidor" OnValidSubmit="AgregarMedidor">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <div class="mb-2">
+            <label>Número:</label>
+            <InputNumber @bind-Value="nuevoMedidor.Numero" class="form-control" />
+        </div>
+        <div class="mb-2">
+            <label>Tipo:</label>
+            <InputSelect class="form-control" @bind-Value="nuevoMedidor.Tipo">
+                <option value="">Seleccione tipo...</option>
+                <option value="Agua">Agua</option>
+                <option value="Luz">Luz</option>
+            </InputSelect>
+        </div>
+        <div class="mb-2">
+            <label>Cliente:</label>
+            <InputText class="form-control" placeholder="Buscar cliente por nombre..."
+                       @bind-Value="clienteNombreBusqueda"
+                       @oninput="ActualizarBusqueda" />
+
+            @if (clientesFiltrados.Any())
+            {
+                <ul class="list-group" style="max-height:120px; overflow-y:auto;">
+                    @foreach (var c in clientesFiltrados)
+                    {
+                        <li class="list-group-item list-group-item-action"
+                            style="cursor:pointer;"
+                            @onclick="() => SeleccionarCliente(c)">
+                            @c.Nombre
+                        </li>
+                    }
+                </ul>
+            }
+        </div>
+        <button class="btn btn-success" type="submit">Guardar</button>
+        <button class="btn btn-secondary ms-2" type="button" @onclick="HideFormMedidor">Cancelar</button>
+
+        @if (showFormMedidor && !string.IsNullOrWhiteSpace(MedidorError))
+        {
+            <div class="alert alert-danger">@MedidorError</div>
+        }
+    </EditForm>
+}
+
+@if (MedidoresData == null)
+{
+    <p><em>Cargando medidores...</em></p>
+}
+else if (!MedidoresData.Any())
+{
+    <p>No hay medidores registrados.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr><th>Id</th><th>Número</th><th>Tipo</th><th>Cliente</th><th>Acciones</th></tr>
+        </thead>
+        <tbody>
+            @foreach (var m in MedidoresData)
+            {
+                var cliente = ClientesData?.FirstOrDefault(c => c.Id == m.ClienteId);
+                <tr>
+                    <td>@m.Id</td>
+                    <td>@m.Numero</td>
+                    <td>@m.Tipo</td>
+                    <td>@(cliente != null ? cliente.Nombre : "-")</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm" @onclick="() => EliminarMedidor.InvokeAsync(m.Id)">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+@code {
+    [Parameter] public List<MedidorDTOView>? MedidoresData { get; set; }
+    [Parameter] public List<ClienteDTOView>? ClientesData { get; set; }
+    [Parameter] public EventCallback<int> EliminarMedidor { get; set; }
+    [Parameter] public EventCallback<MedidorDTO> AgregarMedidorSubmit { get; set; }
+    [Parameter] public string? MedidorError { get; set; }
+
+    private MedidorDTO nuevoMedidor = new() { Tipo = "" };
+    private bool showFormMedidor = false;
+    private string clienteNombreBusqueda = "";
+    private List<ClienteDTOView> clientesFiltrados = new();
+
+    private void ShowAddMedidor()
+    {
+        showFormMedidor = true;
+        MedidorError = null; // Limpia el error al abrir el formulario
+    }
+    private void HideFormMedidor() => showFormMedidor = false;
+
+    private void ActualizarBusqueda(ChangeEventArgs e)
+    {
+        clienteNombreBusqueda = e.Value?.ToString() ?? "";
+        clientesFiltrados = string.IsNullOrWhiteSpace(clienteNombreBusqueda)
+            ? new List<ClienteDTOView>()
+            : ClientesData?.Where(c => c.Nombre.StartsWith(clienteNombreBusqueda, StringComparison.OrdinalIgnoreCase)).ToList() ?? new List<ClienteDTOView>();
+    }
+    private void SeleccionarCliente(ClienteDTOView cliente)
+    {
+        nuevoMedidor.ClienteId = cliente.Id;
+        clienteNombreBusqueda = cliente.Nombre;
+        clientesFiltrados.Clear();
+    }
+    private async Task AgregarMedidor()
+    {
+        // Validación: no permitir número de medidor repetido
+        if (MedidoresData != null && MedidoresData.Any(m => m.Numero == nuevoMedidor.Numero))
+        {
+            MedidorError = "El número de medidor ya existe.";
+            return;
+        }
+        MedidorError = null;
+        await AgregarMedidorSubmit.InvokeAsync(nuevoMedidor);
+        nuevoMedidor = new() { Tipo = "" }; // Limpia los campos después de agregar
+        clienteNombreBusqueda = ""; // Limpia el campo de búsqueda de cliente
+        showFormMedidor = false;
+    }
+}
