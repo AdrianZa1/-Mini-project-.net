@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e37e22daa619e2fe01035e22401e949420fc6532")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10895d8c57aa257a1a0304cbcda3e79f6476a10")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O/R3n3UGNvs2rpNr1OW3zrdHX4qtYkx6nnnfShxu4DI=",
+  "Hash": "va+ydICZSk7Y2bnKdAI5IstmarpP+SaFqZ3Y6Jh5Cz4=",
   "Source": "CalculadoraWeb",
   "BasePath": "/",
   "Mode": "Root",
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "9hhmfz99bv",
-      "Integrity": "A1PMrkV+02nBKaZ475Mp2t7ItFmF/9h08pYTHyxOBL8=",
+      "Fingerprint": "ulnrajc8dr",
+      "Integrity": "vhny3D5K9BW3KQGLanFz/KWdHRPTn5hJuXqR+nuyyHo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -227,7 +227,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\2rucb4jlvz-rqxhp8973g.gz"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-9hhmfz99bv.br",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-ulnrajc8dr.br",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -241,14 +241,14 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "35qbviyjrb",
-      "Integrity": "6b8XV4qjTsHmTQi3zztHSqmOlQoWcpBZYoGI7iCTS2M=",
+      "Fingerprint": "tecdx9jeey",
+      "Integrity": "60pNBvimOsPde3ndlR0x2L2XvYp/Zt2PNubMx6X68b8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-9hhmfz99bv.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-ulnrajc8dr.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -262,8 +262,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4qlp51aicn",
-      "Integrity": "xNzTJGAMYjLvlU3CTSCZzWRQbilr2Q3Trjeh83vO/Ck=",
+      "Fingerprint": "0irgjscfq8",
+      "Integrity": "yK1OKOu9he6w00jitn1SLZsqvGOEBdXaP182uzmVqwI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -542,7 +542,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Private.Uri.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-jkw4w6u81c.br",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-p01i06dcan.br",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -556,14 +556,14 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Calculadora.Logica.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "beidcvxvq2",
-      "Integrity": "Y9bDLlzrVg8rIGNKEUB/aXHsz0yBekihPLmr8SkshCI=",
+      "Fingerprint": "gubssvfecm",
+      "Integrity": "CO3WvQXV1NmIt5Hbm1S3QyEhZh4vjqF6CqcziZE2Jtg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Calculadora.Logica.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-jkw4w6u81c.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-p01i06dcan.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -577,8 +577,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Calculadora.Logica.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fpfsellimu",
-      "Integrity": "g1D1krKUh0NAa9lt9JxBOZ7obAf2zCpE4ahrev7Tn28=",
+      "Fingerprint": "mliqh68rli",
+      "Integrity": "VlaTsvUMn5vYUObBjAasFGyJGA+K4jEU17k2qjzxJoQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Calculadora.Logica.wasm"
@@ -983,7 +983,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.js"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-yvz302fft8.br",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-akq3l6dfth.br",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -997,14 +997,14 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Console.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "au7e7iledm",
-      "Integrity": "ziFaUMQjv8aigQnFLlkAM2IK+I2oS/kICAkonOh8/wY=",
+      "Fingerprint": "0phsq5vzw2",
+      "Integrity": "bHkeGFMeaqrQWVCS6OSonCAr09FYqYlnsmIlGDF+9v0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Console.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-yvz302fft8.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-akq3l6dfth.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Console.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3rr1en23es",
-      "Integrity": "QVM8BKlD8riND5t7skB0aHl4G9QYvIt4OPFnjTDOmE4=",
+      "Fingerprint": "j71ii2ng5x",
+      "Integrity": "n+C2ynCK7lVBFE6nRrJadneTjOh9gRFwCc/PiM1ll4Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Console.wasm"
@@ -1109,7 +1109,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-mahxt8lrf2.br",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-dj75bn6o2w.br",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1123,14 +1123,14 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "ibcfnpod64",
-      "Integrity": "4tjETkgwQzn02Pqn7lvZIT1PLd1dB1xsCpl+MHs6IQo=",
+      "Fingerprint": "2d8haeogqu",
+      "Integrity": "avk+6AA2TeKFsHAWU9aD+T3MZdidI4whFr50htLSD3s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-mahxt8lrf2.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-dj75bn6o2w.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sw48t9naru",
-      "Integrity": "JERnIznm+B2vEPkRTbaX5sQ4+iwgDq4x4iFL60x9LwE=",
+      "Fingerprint": "t44cu2eudu",
+      "Integrity": "E9ot+UyfiSmBF1Bm0WWn5JfeNZE7JzDiNTVi6wNWUnQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm"
@@ -1193,7 +1193,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.Expressions.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-llw6p6x1s1.br",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-l0xai6h8zc.br",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1207,14 +1207,14 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.Logica.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "9w4s6kn24r",
-      "Integrity": "N3ImDQoflcaYQOcl298ruXDCkaCm0DwLXeT6TpbVC+Y=",
+      "Fingerprint": "468lfmidf2",
+      "Integrity": "ZPxmGXqwHc7RNgqOVFvIcQOSwtakk16eYnUXTwgenNw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.Logica.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-llw6p6x1s1.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-l0xai6h8zc.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1228,8 +1228,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.Logica.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "m5mkrwrvv7",
-      "Integrity": "1med5ZKzrb/SekDbYJlethb5lJU+aeqwXZw9fIb5XTs=",
+      "Fingerprint": "xwqsc5on2i",
+      "Integrity": "QXdYDuyhwiZ1UKqo6XfEPDZ1joY5pT56Lc+lK6E9axU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.Logica.wasm"
@@ -1676,7 +1676,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-k66sacr9az.br",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-v531249r32.br",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1690,14 +1690,14 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.correo.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "3i7cr5hs3x",
-      "Integrity": "++/HFvHIqiQ025UMLgnLdjJ50jEFX0VTAy01LEu3k9c=",
+      "Fingerprint": "s2fjvaaswt",
+      "Integrity": "7KWjkOHsWvLji0RaIgec6cmyPuQgPY38Y8wpXCUzsFw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.correo.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-k66sacr9az.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-v531249r32.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1711,8 +1711,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.correo.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zjrcj3u1a3",
-      "Integrity": "gepXxj3sCSWmspTOXkNB67om/+Z3tCyOQygJ1D4dvx0=",
+      "Fingerprint": "nryooco570",
+      "Integrity": "/bHPytiZDvikmRTjgC6EXf/zyTfWeWds6Va1271gFV4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.correo.wasm"
@@ -2033,7 +2033,7 @@
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.Json.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-zhdbefe9xw.br",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-nbsfit56zj.br",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -2047,14 +2047,14 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\CalculadoraWeb.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "xwuq7ogjbe",
-      "Integrity": "AaZIr6gaZ3ZcUqWzt4pLbam9srR9duxR9bHidfsBVj0=",
+      "Fingerprint": "p1h1jm1dyx",
+      "Integrity": "jWcAi7D8rekOAEGtVJUiMMHRwmejLjtW3jBa6ILMIj8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\CalculadoraWeb.wasm"
     },
     {
-      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-zhdbefe9xw.gz",
+      "Identity": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-nbsfit56zj.gz",
       "SourceId": "CalculadoraWeb",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -2068,8 +2068,8 @@
       "RelatedAsset": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\CalculadoraWeb.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0qvsjszdoc",
-      "Integrity": "mOJleRmNZPM3xZXFFZDAsu6/YcRggnKAWfJu56Md+7o=",
+      "Fingerprint": "w1e4zigwja",
+      "Integrity": "3FTY6U+YshnVyzk+JBCP0NgA7+FTr2MC+CRHneawdV8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\CalculadoraWeb.wasm"
@@ -2530,8 +2530,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "jkw4w6u81c",
-      "Integrity": "Haqh3DdqvcG5LUQ0XH4nbWNR1r3dxmQgvXlt8jqYm0A=",
+      "Fingerprint": "p01i06dcan",
+      "Integrity": "V4KeotV8SePUGocN2ps318TxMoS9STxAxrSJL7dbSJw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Calculadora.Logica.wasm"
@@ -2551,8 +2551,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "zhdbefe9xw",
-      "Integrity": "F6MCom+TN1QIPUAX99kPqjRiMK/KSGGNSByOmwt/5Rw=",
+      "Fingerprint": "nbsfit56zj",
+      "Integrity": "I/NcSCZ+5HJiR3kDqYgwEunslwcojHJikDiTzE3hTvw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\CalculadoraWeb.wasm"
@@ -2950,8 +2950,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "mahxt8lrf2",
-      "Integrity": "Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4=",
+      "Fingerprint": "dj75bn6o2w",
+      "Integrity": "l0O736ksJ47lZzELKO0Y/yjPWET/hcqgANr9ulI99Xs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm"
@@ -3055,8 +3055,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "yvz302fft8",
-      "Integrity": "ki+D+mS+zaOdTimoxo5+mm0mVaT8myPLJBR0fbzm2QU=",
+      "Fingerprint": "akq3l6dfth",
+      "Integrity": "xrkYtV9Gl/Gpq8v6P/zbKf/3lOPcne8xIQ8EjIk5B/U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\System.Console.wasm"
@@ -3433,8 +3433,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "k66sacr9az",
-      "Integrity": "tAfvkbg8f3+IcniflO9E7Nwxk99M9F8OfcxyQd/hIaM=",
+      "Fingerprint": "v531249r32",
+      "Integrity": "Q+hR84KZJGZkgXlQoWH9SQc3mswC50VDtiutjgUIwYQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.correo.wasm"
@@ -3454,8 +3454,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "llw6p6x1s1",
-      "Integrity": "dzSrT4xaD9qVRKFRQrU7CAAAmEDgahACmX+t2edeXZk=",
+      "Fingerprint": "l0xai6h8zc",
+      "Integrity": "WwCGVJzTjn3SJxw4DTFW+h13wUBKYcZTwajEJ/WjZTw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\webcil\\publish\\Validar.Logica.wasm"
@@ -3628,11 +3628,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A1PMrkV+02nBKaZ475Mp2t7ItFmF/9h08pYTHyxOBL8=\""
+          "Value": "\"vhny3D5K9BW3KQGLanFz/KWdHRPTn5hJuXqR+nuyyHo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:47 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3642,13 +3642,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A1PMrkV+02nBKaZ475Mp2t7ItFmF/9h08pYTHyxOBL8="
+          "Value": "sha256-vhny3D5K9BW3KQGLanFz/KWdHRPTn5hJuXqR+nuyyHo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-9hhmfz99bv.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-ulnrajc8dr.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3667,11 +3667,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6b8XV4qjTsHmTQi3zztHSqmOlQoWcpBZYoGI7iCTS2M=\""
+          "Value": "\"60pNBvimOsPde3ndlR0x2L2XvYp/Zt2PNubMx6X68b8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:47 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3691,24 +3691,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"A1PMrkV+02nBKaZ475Mp2t7ItFmF/9h08pYTHyxOBL8=\""
+          "Value": "W/\"vhny3D5K9BW3KQGLanFz/KWdHRPTn5hJuXqR+nuyyHo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A1PMrkV+02nBKaZ475Mp2t7ItFmF/9h08pYTHyxOBL8="
+          "Value": "sha256-vhny3D5K9BW3KQGLanFz/KWdHRPTn5hJuXqR+nuyyHo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-9hhmfz99bv.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-ulnrajc8dr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000395569620"
+          "Quality": "0.000396353547"
         }
       ],
       "ResponseHeaders": [
@@ -3718,15 +3718,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2527"
+          "Value": "2522"
         },
         {
           "Name": "ETag",
-          "Value": "\"xNzTJGAMYjLvlU3CTSCZzWRQbilr2Q3Trjeh83vO/Ck=\""
+          "Value": "\"yK1OKOu9he6w00jitn1SLZsqvGOEBdXaP182uzmVqwI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:47 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3746,19 +3746,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"A1PMrkV+02nBKaZ475Mp2t7ItFmF/9h08pYTHyxOBL8=\""
+          "Value": "W/\"vhny3D5K9BW3KQGLanFz/KWdHRPTn5hJuXqR+nuyyHo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A1PMrkV+02nBKaZ475Mp2t7ItFmF/9h08pYTHyxOBL8="
+          "Value": "sha256-vhny3D5K9BW3KQGLanFz/KWdHRPTn5hJuXqR+nuyyHo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-9hhmfz99bv.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-ulnrajc8dr.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3775,11 +3775,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6b8XV4qjTsHmTQi3zztHSqmOlQoWcpBZYoGI7iCTS2M=\""
+          "Value": "\"60pNBvimOsPde3ndlR0x2L2XvYp/Zt2PNubMx6X68b8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:47 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3797,13 +3797,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6b8XV4qjTsHmTQi3zztHSqmOlQoWcpBZYoGI7iCTS2M="
+          "Value": "sha256-60pNBvimOsPde3ndlR0x2L2XvYp/Zt2PNubMx6X68b8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-9hhmfz99bv.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\06oe4ow98v-ulnrajc8dr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3812,7 +3812,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2527"
+          "Value": "2522"
         },
         {
           "Name": "Content-Type",
@@ -3820,11 +3820,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xNzTJGAMYjLvlU3CTSCZzWRQbilr2Q3Trjeh83vO/Ck=\""
+          "Value": "\"yK1OKOu9he6w00jitn1SLZsqvGOEBdXaP182uzmVqwI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:47 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3842,7 +3842,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xNzTJGAMYjLvlU3CTSCZzWRQbilr2Q3Trjeh83vO/Ck="
+          "Value": "sha256-yK1OKOu9he6w00jitn1SLZsqvGOEBdXaP182uzmVqwI="
         }
       ]
     },
@@ -3963,7 +3963,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:32 GMT"
+          "Value": "Tue, 17 Jun 2025 18:38:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4061,7 +4061,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:32 GMT"
+          "Value": "Tue, 17 Jun 2025 18:38:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4085,12 +4085,12 @@
     },
     {
       "Route": "_framework/Calculadora.Logica.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-jkw4w6u81c.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-p01i06dcan.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000662690524"
+          "Quality": "0.000661375661"
         }
       ],
       "ResponseHeaders": [
@@ -4100,15 +4100,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1508"
+          "Value": "1511"
         },
         {
           "Name": "ETag",
-          "Value": "\"Y9bDLlzrVg8rIGNKEUB/aXHsz0yBekihPLmr8SkshCI=\""
+          "Value": "\"CO3WvQXV1NmIt5Hbm1S3QyEhZh4vjqF6CqcziZE2Jtg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4128,24 +4128,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Haqh3DdqvcG5LUQ0XH4nbWNR1r3dxmQgvXlt8jqYm0A=\""
+          "Value": "W/\"V4KeotV8SePUGocN2ps318TxMoS9STxAxrSJL7dbSJw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Haqh3DdqvcG5LUQ0XH4nbWNR1r3dxmQgvXlt8jqYm0A="
+          "Value": "sha256-V4KeotV8SePUGocN2ps318TxMoS9STxAxrSJL7dbSJw="
         }
       ]
     },
     {
       "Route": "_framework/Calculadora.Logica.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-jkw4w6u81c.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-p01i06dcan.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000576701269"
+          "Quality": "0.000573723465"
         }
       ],
       "ResponseHeaders": [
@@ -4155,15 +4155,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1733"
+          "Value": "1742"
         },
         {
           "Name": "ETag",
-          "Value": "\"g1D1krKUh0NAa9lt9JxBOZ7obAf2zCpE4ahrev7Tn28=\""
+          "Value": "\"VlaTsvUMn5vYUObBjAasFGyJGA+K4jEU17k2qjzxJoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4183,13 +4183,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Haqh3DdqvcG5LUQ0XH4nbWNR1r3dxmQgvXlt8jqYm0A=\""
+          "Value": "W/\"V4KeotV8SePUGocN2ps318TxMoS9STxAxrSJL7dbSJw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Haqh3DdqvcG5LUQ0XH4nbWNR1r3dxmQgvXlt8jqYm0A="
+          "Value": "sha256-V4KeotV8SePUGocN2ps318TxMoS9STxAxrSJL7dbSJw="
         }
       ]
     },
@@ -4212,11 +4212,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Haqh3DdqvcG5LUQ0XH4nbWNR1r3dxmQgvXlt8jqYm0A=\""
+          "Value": "\"V4KeotV8SePUGocN2ps318TxMoS9STxAxrSJL7dbSJw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4226,13 +4226,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Haqh3DdqvcG5LUQ0XH4nbWNR1r3dxmQgvXlt8jqYm0A="
+          "Value": "sha256-V4KeotV8SePUGocN2ps318TxMoS9STxAxrSJL7dbSJw="
         }
       ]
     },
     {
       "Route": "_framework/Calculadora.Logica.wasm.br",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-jkw4w6u81c.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-p01i06dcan.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4241,7 +4241,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1508"
+          "Value": "1511"
         },
         {
           "Name": "Content-Type",
@@ -4249,11 +4249,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Y9bDLlzrVg8rIGNKEUB/aXHsz0yBekihPLmr8SkshCI=\""
+          "Value": "\"CO3WvQXV1NmIt5Hbm1S3QyEhZh4vjqF6CqcziZE2Jtg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4271,13 +4271,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Y9bDLlzrVg8rIGNKEUB/aXHsz0yBekihPLmr8SkshCI="
+          "Value": "sha256-CO3WvQXV1NmIt5Hbm1S3QyEhZh4vjqF6CqcziZE2Jtg="
         }
       ]
     },
     {
       "Route": "_framework/Calculadora.Logica.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-jkw4w6u81c.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\30w5eijl7f-p01i06dcan.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4286,7 +4286,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1733"
+          "Value": "1742"
         },
         {
           "Name": "Content-Type",
@@ -4294,11 +4294,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g1D1krKUh0NAa9lt9JxBOZ7obAf2zCpE4ahrev7Tn28=\""
+          "Value": "\"VlaTsvUMn5vYUObBjAasFGyJGA+K4jEU17k2qjzxJoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4316,18 +4316,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g1D1krKUh0NAa9lt9JxBOZ7obAf2zCpE4ahrev7Tn28="
+          "Value": "sha256-VlaTsvUMn5vYUObBjAasFGyJGA+K4jEU17k2qjzxJoQ="
         }
       ]
     },
     {
       "Route": "_framework/CalculadoraWeb.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-zhdbefe9xw.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-nbsfit56zj.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000048928467"
+          "Quality": "0.000053248136"
         }
       ],
       "ResponseHeaders": [
@@ -4337,15 +4337,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20437"
+          "Value": "18779"
         },
         {
           "Name": "ETag",
-          "Value": "\"AaZIr6gaZ3ZcUqWzt4pLbam9srR9duxR9bHidfsBVj0=\""
+          "Value": "\"jWcAi7D8rekOAEGtVJUiMMHRwmejLjtW3jBa6ILMIj8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4365,24 +4365,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"F6MCom+TN1QIPUAX99kPqjRiMK/KSGGNSByOmwt/5Rw=\""
+          "Value": "W/\"I/NcSCZ+5HJiR3kDqYgwEunslwcojHJikDiTzE3hTvw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F6MCom+TN1QIPUAX99kPqjRiMK/KSGGNSByOmwt/5Rw="
+          "Value": "sha256-I/NcSCZ+5HJiR3kDqYgwEunslwcojHJikDiTzE3hTvw="
         }
       ]
     },
     {
       "Route": "_framework/CalculadoraWeb.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-zhdbefe9xw.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-nbsfit56zj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000038957497"
+          "Quality": "0.000044062569"
         }
       ],
       "ResponseHeaders": [
@@ -4392,15 +4392,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25668"
+          "Value": "22694"
         },
         {
           "Name": "ETag",
-          "Value": "\"mOJleRmNZPM3xZXFFZDAsu6/YcRggnKAWfJu56Md+7o=\""
+          "Value": "\"3FTY6U+YshnVyzk+JBCP0NgA7+FTr2MC+CRHneawdV8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4420,13 +4420,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"F6MCom+TN1QIPUAX99kPqjRiMK/KSGGNSByOmwt/5Rw=\""
+          "Value": "W/\"I/NcSCZ+5HJiR3kDqYgwEunslwcojHJikDiTzE3hTvw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F6MCom+TN1QIPUAX99kPqjRiMK/KSGGNSByOmwt/5Rw="
+          "Value": "sha256-I/NcSCZ+5HJiR3kDqYgwEunslwcojHJikDiTzE3hTvw="
         }
       ]
     },
@@ -4441,7 +4441,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73493"
+          "Value": "62741"
         },
         {
           "Name": "Content-Type",
@@ -4449,11 +4449,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"F6MCom+TN1QIPUAX99kPqjRiMK/KSGGNSByOmwt/5Rw=\""
+          "Value": "\"I/NcSCZ+5HJiR3kDqYgwEunslwcojHJikDiTzE3hTvw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4463,13 +4463,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-F6MCom+TN1QIPUAX99kPqjRiMK/KSGGNSByOmwt/5Rw="
+          "Value": "sha256-I/NcSCZ+5HJiR3kDqYgwEunslwcojHJikDiTzE3hTvw="
         }
       ]
     },
     {
       "Route": "_framework/CalculadoraWeb.wasm.br",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-zhdbefe9xw.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-nbsfit56zj.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4478,7 +4478,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20437"
+          "Value": "18779"
         },
         {
           "Name": "Content-Type",
@@ -4486,11 +4486,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AaZIr6gaZ3ZcUqWzt4pLbam9srR9duxR9bHidfsBVj0=\""
+          "Value": "\"jWcAi7D8rekOAEGtVJUiMMHRwmejLjtW3jBa6ILMIj8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4508,13 +4508,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AaZIr6gaZ3ZcUqWzt4pLbam9srR9duxR9bHidfsBVj0="
+          "Value": "sha256-jWcAi7D8rekOAEGtVJUiMMHRwmejLjtW3jBa6ILMIj8="
         }
       ]
     },
     {
       "Route": "_framework/CalculadoraWeb.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-zhdbefe9xw.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\r2239hvbij-nbsfit56zj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4523,7 +4523,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25668"
+          "Value": "22694"
         },
         {
           "Name": "Content-Type",
@@ -4531,11 +4531,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mOJleRmNZPM3xZXFFZDAsu6/YcRggnKAWfJu56Md+7o=\""
+          "Value": "\"3FTY6U+YshnVyzk+JBCP0NgA7+FTr2MC+CRHneawdV8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4553,7 +4553,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mOJleRmNZPM3xZXFFZDAsu6/YcRggnKAWfJu56Md+7o="
+          "Value": "sha256-3FTY6U+YshnVyzk+JBCP0NgA7+FTr2MC+CRHneawdV8="
         }
       ]
     },
@@ -4619,7 +4619,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:33 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4772,7 +4772,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:33 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4911,7 +4911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:34 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5009,7 +5009,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:34 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5148,7 +5148,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:34 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5246,7 +5246,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:34 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5385,7 +5385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:34 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5483,7 +5483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:34 GMT"
+          "Value": "Thu, 17 Oct 2024 19:00:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10484,12 +10484,12 @@
     },
     {
       "Route": "_framework/System.Collections.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-mahxt8lrf2.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-dj75bn6o2w.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000197005516"
+          "Quality": "0.000195848022"
         }
       ],
       "ResponseHeaders": [
@@ -10499,15 +10499,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5075"
+          "Value": "5105"
         },
         {
           "Name": "ETag",
-          "Value": "\"4tjETkgwQzn02Pqn7lvZIT1PLd1dB1xsCpl+MHs6IQo=\""
+          "Value": "\"avk+6AA2TeKFsHAWU9aD+T3MZdidI4whFr50htLSD3s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10527,24 +10527,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4=\""
+          "Value": "W/\"l0O736ksJ47lZzELKO0Y/yjPWET/hcqgANr9ulI99Xs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4="
+          "Value": "sha256-l0O736ksJ47lZzELKO0Y/yjPWET/hcqgANr9ulI99Xs="
         }
       ]
     },
     {
       "Route": "_framework/System.Collections.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-mahxt8lrf2.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-dj75bn6o2w.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000176304654"
+          "Quality": "0.000175870559"
         }
       ],
       "ResponseHeaders": [
@@ -10554,15 +10554,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5671"
+          "Value": "5685"
         },
         {
           "Name": "ETag",
-          "Value": "\"JERnIznm+B2vEPkRTbaX5sQ4+iwgDq4x4iFL60x9LwE=\""
+          "Value": "\"E9ot+UyfiSmBF1Bm0WWn5JfeNZE7JzDiNTVi6wNWUnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10582,13 +10582,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4=\""
+          "Value": "W/\"l0O736ksJ47lZzELKO0Y/yjPWET/hcqgANr9ulI99Xs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4="
+          "Value": "sha256-l0O736ksJ47lZzELKO0Y/yjPWET/hcqgANr9ulI99Xs="
         }
       ]
     },
@@ -10611,11 +10611,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4=\""
+          "Value": "\"l0O736ksJ47lZzELKO0Y/yjPWET/hcqgANr9ulI99Xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10625,13 +10625,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4="
+          "Value": "sha256-l0O736ksJ47lZzELKO0Y/yjPWET/hcqgANr9ulI99Xs="
         }
       ]
     },
     {
       "Route": "_framework/System.Collections.wasm.br",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-mahxt8lrf2.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-dj75bn6o2w.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10640,7 +10640,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5075"
+          "Value": "5105"
         },
         {
           "Name": "Content-Type",
@@ -10648,11 +10648,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4tjETkgwQzn02Pqn7lvZIT1PLd1dB1xsCpl+MHs6IQo=\""
+          "Value": "\"avk+6AA2TeKFsHAWU9aD+T3MZdidI4whFr50htLSD3s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10670,13 +10670,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4tjETkgwQzn02Pqn7lvZIT1PLd1dB1xsCpl+MHs6IQo="
+          "Value": "sha256-avk+6AA2TeKFsHAWU9aD+T3MZdidI4whFr50htLSD3s="
         }
       ]
     },
     {
       "Route": "_framework/System.Collections.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-mahxt8lrf2.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\fsmdn30uva-dj75bn6o2w.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10685,7 +10685,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5671"
+          "Value": "5685"
         },
         {
           "Name": "Content-Type",
@@ -10693,11 +10693,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JERnIznm+B2vEPkRTbaX5sQ4+iwgDq4x4iFL60x9LwE=\""
+          "Value": "\"E9ot+UyfiSmBF1Bm0WWn5JfeNZE7JzDiNTVi6wNWUnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10715,7 +10715,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JERnIznm+B2vEPkRTbaX5sQ4+iwgDq4x4iFL60x9LwE="
+          "Value": "sha256-E9ot+UyfiSmBF1Bm0WWn5JfeNZE7JzDiNTVi6wNWUnQ="
         }
       ]
     },
@@ -11669,12 +11669,12 @@
     },
     {
       "Route": "_framework/System.Console.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-yvz302fft8.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-akq3l6dfth.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000160771704"
+          "Quality": "0.000159235669"
         }
       ],
       "ResponseHeaders": [
@@ -11684,15 +11684,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6219"
+          "Value": "6279"
         },
         {
           "Name": "ETag",
-          "Value": "\"ziFaUMQjv8aigQnFLlkAM2IK+I2oS/kICAkonOh8/wY=\""
+          "Value": "\"bHkeGFMeaqrQWVCS6OSonCAr09FYqYlnsmIlGDF+9v0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11712,24 +11712,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ki+D+mS+zaOdTimoxo5+mm0mVaT8myPLJBR0fbzm2QU=\""
+          "Value": "W/\"xrkYtV9Gl/Gpq8v6P/zbKf/3lOPcne8xIQ8EjIk5B/U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ki+D+mS+zaOdTimoxo5+mm0mVaT8myPLJBR0fbzm2QU="
+          "Value": "sha256-xrkYtV9Gl/Gpq8v6P/zbKf/3lOPcne8xIQ8EjIk5B/U="
         }
       ]
     },
     {
       "Route": "_framework/System.Console.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-yvz302fft8.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-akq3l6dfth.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000137306055"
+          "Quality": "0.000135153399"
         }
       ],
       "ResponseHeaders": [
@@ -11739,15 +11739,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7282"
+          "Value": "7398"
         },
         {
           "Name": "ETag",
-          "Value": "\"QVM8BKlD8riND5t7skB0aHl4G9QYvIt4OPFnjTDOmE4=\""
+          "Value": "\"n+C2ynCK7lVBFE6nRrJadneTjOh9gRFwCc/PiM1ll4Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11767,13 +11767,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ki+D+mS+zaOdTimoxo5+mm0mVaT8myPLJBR0fbzm2QU=\""
+          "Value": "W/\"xrkYtV9Gl/Gpq8v6P/zbKf/3lOPcne8xIQ8EjIk5B/U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ki+D+mS+zaOdTimoxo5+mm0mVaT8myPLJBR0fbzm2QU="
+          "Value": "sha256-xrkYtV9Gl/Gpq8v6P/zbKf/3lOPcne8xIQ8EjIk5B/U="
         }
       ]
     },
@@ -11788,7 +11788,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14613"
+          "Value": "15125"
         },
         {
           "Name": "Content-Type",
@@ -11796,11 +11796,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ki+D+mS+zaOdTimoxo5+mm0mVaT8myPLJBR0fbzm2QU=\""
+          "Value": "\"xrkYtV9Gl/Gpq8v6P/zbKf/3lOPcne8xIQ8EjIk5B/U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11810,13 +11810,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ki+D+mS+zaOdTimoxo5+mm0mVaT8myPLJBR0fbzm2QU="
+          "Value": "sha256-xrkYtV9Gl/Gpq8v6P/zbKf/3lOPcne8xIQ8EjIk5B/U="
         }
       ]
     },
     {
       "Route": "_framework/System.Console.wasm.br",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-yvz302fft8.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-akq3l6dfth.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11825,7 +11825,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6219"
+          "Value": "6279"
         },
         {
           "Name": "Content-Type",
@@ -11833,11 +11833,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ziFaUMQjv8aigQnFLlkAM2IK+I2oS/kICAkonOh8/wY=\""
+          "Value": "\"bHkeGFMeaqrQWVCS6OSonCAr09FYqYlnsmIlGDF+9v0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11855,13 +11855,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ziFaUMQjv8aigQnFLlkAM2IK+I2oS/kICAkonOh8/wY="
+          "Value": "sha256-bHkeGFMeaqrQWVCS6OSonCAr09FYqYlnsmIlGDF+9v0="
         }
       ]
     },
     {
       "Route": "_framework/System.Console.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-yvz302fft8.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\baf2kd89gq-akq3l6dfth.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11870,7 +11870,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7282"
+          "Value": "7398"
         },
         {
           "Name": "Content-Type",
@@ -11878,11 +11878,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QVM8BKlD8riND5t7skB0aHl4G9QYvIt4OPFnjTDOmE4=\""
+          "Value": "\"n+C2ynCK7lVBFE6nRrJadneTjOh9gRFwCc/PiM1ll4Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11900,7 +11900,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QVM8BKlD8riND5t7skB0aHl4G9QYvIt4OPFnjTDOmE4="
+          "Value": "sha256-n+C2ynCK7lVBFE6nRrJadneTjOh9gRFwCc/PiM1ll4Y="
         }
       ]
     },
@@ -15935,12 +15935,12 @@
     },
     {
       "Route": "_framework/Validar.correo.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-k66sacr9az.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-v531249r32.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000503524673"
+          "Quality": "0.000497760080"
         }
       ],
       "ResponseHeaders": [
@@ -15950,15 +15950,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1985"
+          "Value": "2008"
         },
         {
           "Name": "ETag",
-          "Value": "\"++/HFvHIqiQ025UMLgnLdjJ50jEFX0VTAy01LEu3k9c=\""
+          "Value": "\"7KWjkOHsWvLji0RaIgec6cmyPuQgPY38Y8wpXCUzsFw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15978,24 +15978,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tAfvkbg8f3+IcniflO9E7Nwxk99M9F8OfcxyQd/hIaM=\""
+          "Value": "W/\"Q+hR84KZJGZkgXlQoWH9SQc3mswC50VDtiutjgUIwYQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tAfvkbg8f3+IcniflO9E7Nwxk99M9F8OfcxyQd/hIaM="
+          "Value": "sha256-Q+hR84KZJGZkgXlQoWH9SQc3mswC50VDtiutjgUIwYQ="
         }
       ]
     },
     {
       "Route": "_framework/Validar.correo.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-k66sacr9az.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-v531249r32.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000443262411"
+          "Quality": "0.000444049734"
         }
       ],
       "ResponseHeaders": [
@@ -16005,15 +16005,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2255"
+          "Value": "2251"
         },
         {
           "Name": "ETag",
-          "Value": "\"gepXxj3sCSWmspTOXkNB67om/+Z3tCyOQygJ1D4dvx0=\""
+          "Value": "\"/bHPytiZDvikmRTjgC6EXf/zyTfWeWds6Va1271gFV4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16033,13 +16033,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"tAfvkbg8f3+IcniflO9E7Nwxk99M9F8OfcxyQd/hIaM=\""
+          "Value": "W/\"Q+hR84KZJGZkgXlQoWH9SQc3mswC50VDtiutjgUIwYQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tAfvkbg8f3+IcniflO9E7Nwxk99M9F8OfcxyQd/hIaM="
+          "Value": "sha256-Q+hR84KZJGZkgXlQoWH9SQc3mswC50VDtiutjgUIwYQ="
         }
       ]
     },
@@ -16062,11 +16062,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tAfvkbg8f3+IcniflO9E7Nwxk99M9F8OfcxyQd/hIaM=\""
+          "Value": "\"Q+hR84KZJGZkgXlQoWH9SQc3mswC50VDtiutjgUIwYQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16076,13 +16076,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tAfvkbg8f3+IcniflO9E7Nwxk99M9F8OfcxyQd/hIaM="
+          "Value": "sha256-Q+hR84KZJGZkgXlQoWH9SQc3mswC50VDtiutjgUIwYQ="
         }
       ]
     },
     {
       "Route": "_framework/Validar.correo.wasm.br",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-k66sacr9az.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-v531249r32.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16091,7 +16091,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1985"
+          "Value": "2008"
         },
         {
           "Name": "Content-Type",
@@ -16099,11 +16099,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"++/HFvHIqiQ025UMLgnLdjJ50jEFX0VTAy01LEu3k9c=\""
+          "Value": "\"7KWjkOHsWvLji0RaIgec6cmyPuQgPY38Y8wpXCUzsFw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16121,13 +16121,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-++/HFvHIqiQ025UMLgnLdjJ50jEFX0VTAy01LEu3k9c="
+          "Value": "sha256-7KWjkOHsWvLji0RaIgec6cmyPuQgPY38Y8wpXCUzsFw="
         }
       ]
     },
     {
       "Route": "_framework/Validar.correo.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-k66sacr9az.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\lnya1irytf-v531249r32.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16136,7 +16136,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2255"
+          "Value": "2251"
         },
         {
           "Name": "Content-Type",
@@ -16144,11 +16144,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gepXxj3sCSWmspTOXkNB67om/+Z3tCyOQygJ1D4dvx0=\""
+          "Value": "\"/bHPytiZDvikmRTjgC6EXf/zyTfWeWds6Va1271gFV4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16166,18 +16166,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gepXxj3sCSWmspTOXkNB67om/+Z3tCyOQygJ1D4dvx0="
+          "Value": "sha256-/bHPytiZDvikmRTjgC6EXf/zyTfWeWds6Va1271gFV4="
         }
       ]
     },
     {
       "Route": "_framework/Validar.Logica.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-llw6p6x1s1.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-l0xai6h8zc.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000502008032"
+          "Quality": "0.000496524330"
         }
       ],
       "ResponseHeaders": [
@@ -16187,15 +16187,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1991"
+          "Value": "2013"
         },
         {
           "Name": "ETag",
-          "Value": "\"N3ImDQoflcaYQOcl298ruXDCkaCm0DwLXeT6TpbVC+Y=\""
+          "Value": "\"ZPxmGXqwHc7RNgqOVFvIcQOSwtakk16eYnUXTwgenNw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16215,24 +16215,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dzSrT4xaD9qVRKFRQrU7CAAAmEDgahACmX+t2edeXZk=\""
+          "Value": "W/\"WwCGVJzTjn3SJxw4DTFW+h13wUBKYcZTwajEJ/WjZTw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dzSrT4xaD9qVRKFRQrU7CAAAmEDgahACmX+t2edeXZk="
+          "Value": "sha256-WwCGVJzTjn3SJxw4DTFW+h13wUBKYcZTwajEJ/WjZTw="
         }
       ]
     },
     {
       "Route": "_framework/Validar.Logica.wasm",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-llw6p6x1s1.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-l0xai6h8zc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000447027269"
+          "Quality": "0.000445632799"
         }
       ],
       "ResponseHeaders": [
@@ -16242,15 +16242,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2236"
+          "Value": "2243"
         },
         {
           "Name": "ETag",
-          "Value": "\"1med5ZKzrb/SekDbYJlethb5lJU+aeqwXZw9fIb5XTs=\""
+          "Value": "\"QXdYDuyhwiZ1UKqo6XfEPDZ1joY5pT56Lc+lK6E9axU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16270,13 +16270,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dzSrT4xaD9qVRKFRQrU7CAAAmEDgahACmX+t2edeXZk=\""
+          "Value": "W/\"WwCGVJzTjn3SJxw4DTFW+h13wUBKYcZTwajEJ/WjZTw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dzSrT4xaD9qVRKFRQrU7CAAAmEDgahACmX+t2edeXZk="
+          "Value": "sha256-WwCGVJzTjn3SJxw4DTFW+h13wUBKYcZTwajEJ/WjZTw="
         }
       ]
     },
@@ -16299,11 +16299,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dzSrT4xaD9qVRKFRQrU7CAAAmEDgahACmX+t2edeXZk=\""
+          "Value": "\"WwCGVJzTjn3SJxw4DTFW+h13wUBKYcZTwajEJ/WjZTw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16313,13 +16313,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dzSrT4xaD9qVRKFRQrU7CAAAmEDgahACmX+t2edeXZk="
+          "Value": "sha256-WwCGVJzTjn3SJxw4DTFW+h13wUBKYcZTwajEJ/WjZTw="
         }
       ]
     },
     {
       "Route": "_framework/Validar.Logica.wasm.br",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-llw6p6x1s1.br",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-l0xai6h8zc.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16328,7 +16328,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1991"
+          "Value": "2013"
         },
         {
           "Name": "Content-Type",
@@ -16336,11 +16336,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N3ImDQoflcaYQOcl298ruXDCkaCm0DwLXeT6TpbVC+Y=\""
+          "Value": "\"ZPxmGXqwHc7RNgqOVFvIcQOSwtakk16eYnUXTwgenNw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16358,13 +16358,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N3ImDQoflcaYQOcl298ruXDCkaCm0DwLXeT6TpbVC+Y="
+          "Value": "sha256-ZPxmGXqwHc7RNgqOVFvIcQOSwtakk16eYnUXTwgenNw="
         }
       ]
     },
     {
       "Route": "_framework/Validar.Logica.wasm.gz",
-      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-llw6p6x1s1.gz",
+      "AssetFile": "C:\\Users\\Adrii\\Desktop\\-Mini-project-.net\\CalculadoraWeb\\obj\\Release\\net8.0\\compressed\\publish\\g69609otuc-l0xai6h8zc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16373,7 +16373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2236"
+          "Value": "2243"
         },
         {
           "Name": "Content-Type",
@@ -16381,11 +16381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1med5ZKzrb/SekDbYJlethb5lJU+aeqwXZw9fIb5XTs=\""
+          "Value": "\"QXdYDuyhwiZ1UKqo6XfEPDZ1joY5pT56Lc+lK6E9axU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 23:12:46 GMT"
+          "Value": "Fri, 11 Jul 2025 03:16:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16403,7 +16403,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1med5ZKzrb/SekDbYJlethb5lJU+aeqwXZw9fIb5XTs="
+          "Value": "sha256-QXdYDuyhwiZ1UKqo6XfEPDZ1joY5pT56Lc+lK6E9axU="
         }
       ]
     },

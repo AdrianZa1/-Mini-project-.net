@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CalculadoraWeb",
   "resources": {
-    "hash": "sha256-UdtQyl4bFOMA8I+zgxfAemhLDo97rG1K5Zuw4WXVFSI=",
+    "hash": "sha256-f48S7WpuhQoHdITTs1cS8aHgvKYXwvpjIkG++Yt7+So=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -209,16 +209,16 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "Calculadora.Logica.wasm": "sha256-Haqh3DdqvcG5LUQ0XH4nbWNR1r3dxmQgvXlt8jqYm0A=",
-      "Validar.correo.wasm": "sha256-tAfvkbg8f3+IcniflO9E7Nwxk99M9F8OfcxyQd/hIaM=",
-      "Validar.Logica.wasm": "sha256-dzSrT4xaD9qVRKFRQrU7CAAAmEDgahACmX+t2edeXZk=",
-      "CalculadoraWeb.wasm": "sha256-F6MCom+TN1QIPUAX99kPqjRiMK/KSGGNSByOmwt/5Rw="
+      "Calculadora.Logica.wasm": "sha256-V4KeotV8SePUGocN2ps318TxMoS9STxAxrSJL7dbSJw=",
+      "Validar.correo.wasm": "sha256-Q+hR84KZJGZkgXlQoWH9SQc3mswC50VDtiutjgUIwYQ=",
+      "Validar.Logica.wasm": "sha256-WwCGVJzTjn3SJxw4DTFW+h13wUBKYcZTwajEJ/WjZTw=",
+      "CalculadoraWeb.wasm": "sha256-I/NcSCZ+5HJiR3kDqYgwEunslwcojHJikDiTzE3hTvw="
     },
     "pdb": {
-      "Validar.Logica.pdb": "sha256-W7NOC5YSJY7ek2WXAfj1ezcA9X6bwfxyxBVaTs+qOwM=",
-      "Calculadora.Logica.pdb": "sha256-DaYr4gi+yNmRxd+QfnDZIR4gaZ9KDX19dF0GQuJflPM=",
-      "Validar.correo.pdb": "sha256-oyxiLe0m0+ESWwMraXqThgL3v7/f4UMbnimhpCdn0s8=",
-      "CalculadoraWeb.pdb": "sha256-YX3SDj3OqD4o2cNGSslNPVQozccD7Hf1SrcpBBYR9kU="
+      "Validar.Logica.pdb": "sha256-PGhrXlMpOpEqvGyVLLOHrrSgOOpBsJBuj6tTKfp4hIg=",
+      "Calculadora.Logica.pdb": "sha256-Bhav0R8nyviNae5ED7WpmJ/tktX/GGv+glkMlFz7ogQ=",
+      "Validar.correo.pdb": "sha256-6WpZWu3E8rIR6GXKFu0Zx9uRJo7MR5eERA/kxFrRS5Y=",
+      "CalculadoraWeb.pdb": "sha256-/EHpupucJPS9/q7ZeuPLwpgJPF2TTQBtoBTE0JM/Czk="
     }
   },
   "cacheBootResources": true,
