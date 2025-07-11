@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Validar.Logica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10895d8c57aa257a1a0304cbcda3e79f6476a10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c9d4931eb11ce61c6b98065c8b6f9a2eec5c41e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Validar.Logica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Validar.Logica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
